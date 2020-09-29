@@ -1,0 +1,206 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: alpha.bst
+Database file #1: andere.bib
+Repeated entry---line 4644 of file andere.bib
+ : @book {EGNO
+ :            ,
+I'm skipping whatever remains of this entry
+Database file #2: andere2.bib
+Repeated entry---line 214 of file andere2.bib
+ : @article {MR506898
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1209 of file andere2.bib
+ : @article{DijPasRoc:QHAGCOM
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1453 of file andere2.bib
+ : @article{EtiNikOst:FC
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2075 of file andere2.bib
+ : @article{Hoelder1895
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2733 of file andere2.bib
+ : @article{Maj:QDQHA
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3132 of file andere2.bib
+ : @misc{morales2020algebraic
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3140 of file andere2.bib
+ : @article {MR2559854
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3156 of file andere2.bib
+ : @book {MR2710113
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3236 of file andere2.bib
+ : @article{Nat:FSICFC
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3374 of file andere2.bib
+ : @article {MR2480712
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3498 of file andere2.bib
+ : @article{Ost:MCDDFG
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3512 of file andere2.bib
+ : @article{Ost:MCWHAMI
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3907 of file andere2.bib
+ : @book {MR896269
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3918 of file andere2.bib
+ : @article{Schauenburg_2015
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4522 of file andere2.bib
+ : @incollection{Zhu:HARRHA
+ :                         ,
+I'm skipping whatever remains of this entry
+Database file #3: andere3.bib
+Repeated entry---line 1188 of file andere3.bib
+ : @article{DijPasRoc:QHAGCOM
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1432 of file andere3.bib
+ : @article{EtiNikOst:FC
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2039 of file andere3.bib
+ : @article{Hoelder1895
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2690 of file andere3.bib
+ : @article{Maj:QDQHA
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3157 of file andere3.bib
+ : @article{Nat:FSICFC
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3398 of file andere3.bib
+ : @article{Ost:MCDDFG
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3412 of file andere3.bib
+ : @article{Ost:MCWHAMI
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4397 of file andere3.bib
+ : @incollection{Zhu:HARRHA
+ :                         ,
+I'm skipping whatever remains of this entry
+Database file #4: BK.bib
+You're missing a field name---line 276 of file BK.bib
+ :   
+ :   %MRNUMBER = {2494310 (2010e:11034)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 545 of file BK.bib
+ :   
+ :   %MRNUMBER = {0228437 (37 \#4017)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 731 of file BK.bib
+ :   
+ :   %MRNUMBER = {2423745 (2010c:11055)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 896 of file BK.bib
+ :  
+ :  % MRNUMBER = {2888179},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 915 of file BK.bib
+ :   
+ :   %MRNUMBER = {2456842 (2009j:11070)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1185 of file BK.bib
+ :   
+ :   %MRNUMBER = {0314766 (47 \#3318)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1215 of file BK.bib
+ :   
+ :   %MRNUMBER = {0429744 (55 \#2754)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1242 of file BK.bib
+ : 
+ : OURNAL = {J. London Math. Soc.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1343 of file BK.bib
+ : @book {BK
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1356 of file BK.bib
+ : @article {BNRW
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1372 of file BK.bib
+ : @book {EGNO
+ :            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1463 of file BK.bib
+ : @article {Sh
+ :             ,
+I'm skipping whatever remains of this entry
+Database file #5: arxiv.bib
+Warning--there's a number but no volume in BNRW
+Warning--empty booktitle in Coste2000FiniteGM
+Warning--there's a number but no volume in Ost:MCDDFG
+You've used 29 entries,
+            2543 wiz_defined-function locations,
+            770 strings with 9238 characters,
+and the built_in function-call counts, 11469 in all, are:
+= -- 1144
+> -- 545
+< -- 15
++ -- 190
+- -- 186
+* -- 881
+:= -- 1916
+add.period$ -- 88
+call.type$ -- 29
+change.case$ -- 181
+chr.to.int$ -- 27
+cite$ -- 32
+duplicate$ -- 431
+empty$ -- 822
+format.name$ -- 225
+if$ -- 2279
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 150
+num.names$ -- 87
+pop$ -- 157
+preamble$ -- 2
+purify$ -- 213
+quote$ -- 0
+skip$ -- 338
+stack$ -- 0
+substring$ -- 690
+swap$ -- 42
+text.length$ -- 15
+text.prefix$ -- 12
+top$ -- 0
+type$ -- 216
+warning$ -- 3
+while$ -- 111
+width$ -- 32
+write$ -- 375
+(There were 36 error messages)

@@ -1,0 +1,176 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\def\cprime{$'$} \def\cfgrv#1{\ifmmode\setbox7\hbox{$\accent"5E#1$}\else
+  \setbox7\hbox{\accent"5E#1}\penalty 10000\relax\fi\raise 1\ht7
+  \hbox{\lower1.05ex\hbox to 1\wd7{\hss\accent"12\hss}}\penalty 10000
+  \hskip-1\wd7\penalty 10000\box7} \def\cprime{$'$}
+  \def\cfgrv#1{\ifmmode\setbox7\hbox{$\accent"5E#1$}\else
+  \setbox7\hbox{\accent"5E#1}\penalty 10000\relax\fi\raise 1\ht7
+  \hbox{\lower1.05ex\hbox to 1\wd7{\hss\accent"12\hss}}\penalty 10000
+  \hskip-1\wd7\penalty 10000\box7} \def\cprime{$'$}
+  \def\cfgrv#1{\ifmmode\setbox7\hbox{$\accent"5E#1$}\else
+  \setbox7\hbox{\accent"5E#1}\penalty 10000\relax\fi\raise 1\ht7
+  \hbox{\lower1.05ex\hbox to 1\wd7{\hss\accent"12\hss}}\penalty 10000
+  \hskip-1\wd7\penalty 10000\box7} \def\cprime{$'$}
+  \def\cfgrv#1{\ifmmode\setbox7\hbox{$\accent"5E#1$}\else
+  \setbox7\hbox{\accent"5E#1}\penalty 10000\relax\fi\raise 1\ht7
+  \hbox{\lower1.05ex\hbox to 1\wd7{\hss\accent"12\hss}}\penalty 10000
+  \hskip-1\wd7\penalty 10000\box7}
+\begin{thebibliography}{MMP{\etalchar{+}}20}
+
+\bibitem[Alo76]{MR506898}
+J.~Alonso.
+\newblock Groups of square-free order, an algorithm.
+\newblock {\em Math. Comp.}, 30(135):632--637, 1976.
+
+\bibitem[BDG{\etalchar{+}}18]{2018arXiv180505736B}
+P.~{Bonderson}, C.~{Delaney}, C.~{Galindo}, E.~C. {Rowell}, A.~{Tran}, and
+  Z.~{Wang}.
+\newblock {On invariants of Modular categories beyond modular data}.
+\newblock {\em ArXiv e-prints}, May 2018.
+
+\bibitem[BDSV15]{2015arXiv150906811B}
+B.~{Bartlett}, C.~L. {Douglas}, C.~J. {Schommer-Pries}, and J.~{Vicary}.
+\newblock {Modular categories as representations of the 3-dimensional bordism
+  2-category}.
+\newblock {\em ArXiv e-prints}, September 2015.
+
+\bibitem[BK01]{BK}
+Bojko Bakalov and Alexander Kirillov, Jr.
+\newblock {\em Lectures on tensor categories and modular functors}, volume~21
+  of {\em University Lecture Series}.
+\newblock American Mathematical Society, Providence, RI, 2001.
+
+\bibitem[BNRW16]{BNRW}
+Paul Bruillard, Siu-Hung Ng, Eric~C. Rowell, and Zhenghan Wang.
+\newblock On classification of modular categories by rank.
+\newblock {\em Int. Math. Res. Not. IMRN}, (24):7546--7588, 2016.
+
+\bibitem[CGR00]{Coste2000FiniteGM}
+Antoine Coste, Terry Gannon, and Ph. Ruelle.
+\newblock Finite group modular data.
+\newblock 2000.
+
+\bibitem[DGNO10]{MR2609644}
+Vladimir Drinfeld, Shlomo Gelaki, Dmitri Nikshych, and Victor Ostrik.
+\newblock On braided fusion categories. {I}.
+\newblock {\em Selecta Math. (N.S.)}, 16(1):1--119, 2010.
+
+\bibitem[DLN15]{MR3435813}
+Chongying Dong, Xingjun Lin, and Siu-Hung Ng.
+\newblock Congruence property in conformal field theory.
+\newblock {\em Algebra Number Theory}, 9(9):2121--2166, 2015.
+
+\bibitem[DPR90]{DijPasRoc:QHAGCOM}
+R.~Dijkgraaf, V.~Pasquier, and P.~Roche.
+\newblock Quasi {H}opf algebras, group cohomology and orbifold models.
+\newblock {\em Nuclear Phys. B Proc. Suppl.}, 18B:60--72, 1990.
+
+\bibitem[EGNO15]{EGNO}
+Pavel Etingof, Shlomo Gelaki, Dmitri Nikshych, and Victor Ostrik.
+\newblock {\em Tensor categories}, volume 205 of {\em Mathematical Surveys and
+  Monographs}.
+\newblock American Mathematical Society, Providence, RI, 2015.
+
+\bibitem[ENO05]{EtiNikOst:FC}
+Pavel Etingof, Dmitri Nikshych, and Viktor Ostrik.
+\newblock On fusion categories.
+\newblock {\em Ann. of Math. (2)}, 162(2):581--642, 2005.
+
+\bibitem[GMN07]{MR2333187}
+Christopher Goff, Geoffrey Mason, and Siu-Hung Ng.
+\newblock On the gauge equivalence of twisted quantum doubles of elementary
+  abelian and extra-special 2-groups.
+\newblock {\em J. Algebra}, 312(2):849--875, 2007.
+
+\bibitem[GN09]{MR2559854}
+Shlomo Gelaki and Deepak Naidu.
+\newblock Some properties of group-theoretical categories.
+\newblock {\em J. Algebra}, 322(8):2631--2641, 2009.
+
+\bibitem[Hö95]{Hoelder1895}
+O.~Hölder.
+\newblock Die gruppen mit quadratfreier ordnungszahl.
+\newblock {\em Nachrichten von der Gesellschaft der Wissenschaften zu
+  Göttingen, Mathematisch-Physikalische Klasse}, 1895:211--229, 1895.
+
+\bibitem[KMY97]{MR1444783}
+Hideki Kosaki, Akihiro Munemasa, and Shigeru Yamagami.
+\newblock On fusion algebras associated to finite group actions.
+\newblock {\em Pacific J. Math.}, 177(2):269--290, 1997.
+
+\bibitem[Maj98]{Maj:QDQHA}
+S.~Majid.
+\newblock Quantum double for quasi-{H}opf algebras.
+\newblock {\em Lett. Math. Phys.}, 45:1--9, 1998.
+
+\bibitem[MMP{\etalchar{+}}20]{morales2020algebraic}
+Yiby Morales, Monique Müller, Julia Plavnik, Ana~Ros Camacho, Angela Tabiri,
+  and Chelsea Walton.
+\newblock Algebraic structures in group-theoretical fusion categories, 2020.
+
+\bibitem[MS17a]{2017arXiv170802796M}
+M.~{Mignard} and P.~{Schauenburg}.
+\newblock {Modular categories are not determined by their modular data}.
+\newblock {\em ArXiv e-prints}, August 2017.
+
+\bibitem[MS17b]{2017arXiv170806538M}
+M.~{Mignard} and P.~{Schauenburg}.
+\newblock {Morita equivalence of pointed fusion categories of small rank}.
+\newblock {\em ArXiv e-prints}, August 2017.
+
+\bibitem[Nai07]{MR2710113}
+Deepak Naidu.
+\newblock {\em Morita equivalence for group-theoretical categories}.
+\newblock ProQuest LLC, Ann Arbor, MI, 2007.
+\newblock Thesis (Ph.D.)--University of New Hampshire.
+
+\bibitem[Nat05]{Nat:FSICFC}
+Sonia Natale.
+\newblock Frobenius-{S}chur indicators for a class of fusion categories.
+\newblock {\em Pacific J. Math.}, 221(2):353--377, 2005.
+
+\bibitem[Nik08]{MR2480712}
+Dmitri Nikshych.
+\newblock Non-group-theoretical semisimple {H}opf algebras from group actions
+  on fusion categories.
+\newblock {\em Selecta Math. (N.S.)}, 14(1):145--161, 2008.
+
+\bibitem[NR11]{MR2832261}
+Deepak Naidu and Eric~C. Rowell.
+\newblock A finiteness property for braided fusion categories.
+\newblock {\em Algebr. Represent. Theory}, 14(5):837--855, 2011.
+
+\bibitem[Ost03a]{Ost:MCWHAMI}
+Victor Ostrik.
+\newblock Module categories, weak {H}opf algebras and modular invariants.
+\newblock {\em Transform. Groups}, 8(2):177--206, 2003.
+
+\bibitem[Ost03b]{Ost:MCDDFG}
+Viktor Ostrik.
+\newblock Module categories over the {D}rinfeld double of a finite group.
+\newblock {\em Int. Math. Res. Not.}, (27):1507--1520, 2003.
+
+\bibitem[Sch15]{Schauenburg_2015}
+Peter Schauenburg.
+\newblock A higher frobenius–schur indicator formula for group-theoretical
+  fusion categories.
+\newblock {\em Communications in Mathematical Physics}, 340(2):833–849, Sep
+  2015.
+
+\bibitem[Sco87]{MR896269}
+W.~R. Scott.
+\newblock {\em Group theory}.
+\newblock Dover Publications, Inc., New York, second edition, 1987.
+
+\bibitem[Shi19]{Sh}
+Kenichi Shimizu.
+\newblock Non-degeneracy conditions for braided finite tensor categories.
+\newblock {\em Adv. Math.}, 355:106778, 36, 2019.
+
+\bibitem[Zhu01]{Zhu:HARRHA}
+Yongchang Zhu.
+\newblock Hecke algebras and representation ring of {H}opf algebras.
+\newblock In {\em First International Congress of Chinese Mathematicians
+  (Beijing, 1998)}, pages 219--227. Amer. Math. Soc., Providence, RI, 2001.
+
+\end{thebibliography}

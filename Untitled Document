@@ -1,0 +1,96 @@
+\documentclass[11pt]{article}
+
+\usepackage{amsthm,amsmath,amssymb}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{xcolor}
+\usepackage[all]{xy}
+\usepackage{listings}
+\lstset{language=GAP,rangeprefix=\#\&\ ,rangesuffix=\ \#\&,includerangemarker=false,   inputencoding=latin1,
+   basicstyle=\footnotesize\ttfamily,}
+\newcommand{\red }[1]{{\color{red}#1}}
+\newcommand{\blue}[1]{{\color{blue}#1}}
+\newcommand{\green}[1]{{\color{green}#1}}
+\newcommand{\brown}[1]{{\color{brown}#1}}
+\newcommand{\purple}[1]{{\color{purple}#1}}
+
+ \newtheorem{theorem}{Theorem}[section]
+ \newtheorem{Lem}[theorem]{Lemma}
+ \newtheorem{Prop}[theorem]{Proposition}
+ \newtheorem{Cor}[theorem]{Corollary}
+ \newtheorem{Conj}[theorem]{Conjecture}
+\theoremstyle{remark}
+ \newtheorem{Expl}[theorem]{Example}
+\newtheorem{Expls}[theorem]{Examples}
+ \newtheorem{Rem}[theorem]{Remark}
+\newtheorem{Qu}[theorem]{Question}
+\theoremstyle{definition}
+ \newtheorem{Def}[theorem]{Definition}
+\numberwithin{equation}{section}
+\newcommand\N{\mathbb N}
+\newcommand\ol[1]{\overline{#1}}
+
+\newcommand\braid{\sigma}
+\newcommand\tr{\operatorname{tr}}
+\newcommand\End{\operatorname{End}}
+
+\newcommand\hit{\triangleright}
+
+\newcommand\bhit{\blacktriangleright}
+\newcommand\inv{^{-1}}
+\def\HM#1.#2.#3.#4.{{^{#1}_{#3}\mathcal M^{#2}_{#4}}}
+\newcommand\lYD[1]{{^{#1}_{#1}\mathcal{YD}}}
+
+\newcommand\id{\operatorname{id}}
+
+\newcommand\ot{\otimes}
+\newcommand{\ou}[1]{\underset{{#1}}{\otimes}}
+\newcommand{\co}[1]{\mathrel{\mathop{\Box}_{#1}}}
+\newcommand\Ob{\textnormal{Ob }}
+\newcommand\Res{\operatorname{Res}}
+\newcommand\Ind{\operatorname{Ind}}
+\newcommand\Stab{\operatorname{Stab}}
+\newcommand\Rep{\operatorname{Rep}}
+\newcommand\Irr{\operatorname{Irr}}
+\newcommand\Vect{\operatorname{Vec}}
+\newcommand\Tr{\operatorname{Tr}}
+\newcommand\lquot{\backslash}
+\newcommand\Img{\operatorname{Im}}
+
+\newcommand\Hom{\operatorname{Hom}}
+\newcommand\Mod{\operatorname{Mod}}
+
+\newcommand\Indtobim{\mathcal F}
+\newcommand\IndtoYD{\mathcal G}
+
+\newcommand\Q{\mathbb Q}
+\newcommand\CC{\mathbb C}
+\newcommand\CCu{\CC^\times}
+\newcommand\ZZ{\mathbb Z}
+\newcommand\M{\mathcal{M}}
+\newcommand\C{\mathcal C}
+\newcommand\CTR{\mathcal Z}
+
+\newcommand\galaut{\sigma}
+\newcommand\adams{\psi}
+\newcommand\auta{\psi}
+\newcommand\autb{\widetilde\psi}
+\newcommand\doubleadams{\widehat\psi}
+
+\newcommand\wreath{\wr}
+\newcommand\semdir{\rtimes}
+
+\newcommand\semidir\rtimes
+\newcommand\coeff{coeff}
+
+\newcommand\Inf{\operatorname{Inf}}
+\newcommand\Gal{\operatorname{Gal}}
+\newcommand\ab{{\operatorname{ab}}}
+\newcommand{\gb}{\overline{g}}
+\newcommand{\hb}{\overline{h}}
+\newcommand{\kb}{\overline{k}}
+\title{Fusion rules for group-theoretical fusion categories}
+\begin{document}
+\end{document}
