@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.24)  28 SEP 2020 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.24)  17 DEC 2020 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
 \c@chapter=\count168
@@ -24,37 +24,8 @@ File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
-Package: stmaryrd 1994/03/03 St Mary's Road symbol package
-\symstmry=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
-(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks14
-\symAMSa=\mathgroup5
-\symAMSb=\mathgroup6
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen135
-)
-\athelp@=\toks16
-\minaw@=\dimen136
-\bigaw@=\dimen137
-\minCDarrowwidth=\dimen138
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
@@ -63,10 +34,15 @@ Package: amsmath 2020/01/20 v2.17e AMS math features
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen135
+))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen139
+\pmbraise@=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
@@ -83,7 +59,7 @@ LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box45
 \strutbox@=\box46
-\big@size=\dimen140
+\big@size=\dimen137
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \macc@depth=\count181
@@ -91,44 +67,85 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count183
 \dspbrk@lvl=\count184
-\tag@help=\toks17
+\tag@help=\toks15
 \row@=\count185
 \column@=\count186
 \maxfields@=\count187
-\andhelp@=\toks18
-\eqnshift@=\dimen141
-\alignsep@=\dimen142
-\tagshift@=\dimen143
-\tagwidth@=\dimen144
-\totwidth@=\dimen145
-\lineht@=\dimen146
-\@envbody=\toks19
+\andhelp@=\toks16
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks17
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks18
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks21
+\minaw@=\dimen152
+\bigaw@=\dimen153
+\minCDarrowwidth=\dimen154
+)
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
 \thm@preskip=\skip52
 \thm@postskip=\skip53
 \thm@headsep=\skip54
-\dth@everypar=\toks26
+\dth@everypar=\toks27
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
@@ -140,10 +157,6 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
 )
 (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -166,9 +179,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen147
-\Hy@linkcounter=\count188
-\Hy@pagecounter=\count189
+\@linkdim=\dimen155
+\Hy@linkcounter=\count191
+\Hy@pagecounter=\count192
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
@@ -181,8 +194,8 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count190
-\pdfmajorversion=\count191
+\Hy@SavedSpaceFactor=\count193
+\pdfmajorversion=\count194
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
 Package hyperref Info: Hyper index ON on input line 4555.
@@ -190,14 +203,14 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count192
+\c@Hy@tempcnt=\count195
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen148
+\XeTeXLinkMargin=\dimen156
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -206,9 +219,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count193
-\Field@Width=\dimen149
-\Fld@charsize=\dimen150
+\Fld@menulength=\count196
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
 Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
@@ -222,9 +235,9 @@ LaTeX Info: Redefining \pageref on input line 6504.
 (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count194
-\c@Item=\count195
-\c@Hfootnote=\count196
+\Hy@abspage=\count197
+\c@Item=\count198
+\c@Hfootnote=\count199
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -235,8 +248,8 @@ File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count197
-\c@bookmark@seq@number=\count198
+\Fld@listcount=\count266
+\c@bookmark@seq@number=\count267
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -251,14 +264,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
-\symrsfs=\mathgroup7
+\symrsfs=\mathgroup6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip56
-\multirow@cntb=\count199
+\multirow@cntb=\count268
 \multirow@dima=\skip57
-\bigstrutjot=\dimen151
+\bigstrutjot=\dimen159
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -303,15 +316,15 @@ Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count266
-\calc@Bcount=\count267
-\calc@Adimen=\dimen152
-\calc@Bdimen=\dimen153
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen160
+\calc@Bdimen=\dimen161
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count268
+\calc@Ccount=\count271
 \calc@Cskip=\skip60
 )
 (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
@@ -321,20 +334,20 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count269
-\l_MT_multwidth_dim=\dimen154
+\g_MT_multlinerow_int=\count272
+\l_MT_multwidth_dim=\dimen162
 \origjot=\skip61
-\l_MT_shortvdotswithinadjustabove_dim=\dimen155
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen156
-\l_MT_above_intertext_sep=\dimen157
-\l_MT_below_intertext_sep=\dimen158
-\l_MT_above_shortintertext_sep=\dimen159
-\l_MT_below_shortintertext_sep=\dimen160
+\l_MT_shortvdotswithinadjustabove_dim=\dimen163
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen164
+\l_MT_above_intertext_sep=\dimen165
+\l_MT_below_intertext_sep=\dimen166
+\l_MT_above_shortintertext_sep=\dimen167
+\l_MT_below_shortintertext_sep=\dimen168
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen161
-\Gin@req@width=\dimen162
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
@@ -360,126 +373,134 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
 (Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
 )
+\pageoffset=\skip71
+
 (/usr/share/texlive/texmf-dist/tex/latex/easy/easytable.sty
 Document Style `easytable' v1.0 <2001/06/13>.
 (/usr/share/texlive/texmf-dist/tex/latex/easy/easy.sty
 Document Style `easy' v1.1 <2001/05/31>.
 Package: easy 2001/05/31 v1.1
-\@easy@level=\count270
-\@easy@ncol=\count271
-\@easy@nrow=\count272
-\@easy@cnt=\count273
+\@easy@level=\count273
+\@easy@ncol=\count274
+\@easy@nrow=\count275
+\@easy@cnt=\count276
 \@easy@boxviii=\box47
-\@easy@minxviii=\dimen163
-\@easy@minyviii=\dimen164
-\@easy@maxxviii=\dimen165
-\@easy@maxyviii=\dimen166
+\@easy@minxviii=\dimen171
+\@easy@minyviii=\dimen172
+\@easy@maxxviii=\dimen173
+\@easy@maxyviii=\dimen174
 \@easy@boxvii=\box48
-\@easy@minxvii=\dimen167
-\@easy@minyvii=\dimen168
-\@easy@maxxvii=\dimen169
-\@easy@maxyvii=\dimen170
+\@easy@minxvii=\dimen175
+\@easy@minyvii=\dimen176
+\@easy@maxxvii=\dimen177
+\@easy@maxyvii=\dimen178
 \@easy@boxvi=\box49
-\@easy@minxvi=\dimen171
-\@easy@minyvi=\dimen172
-\@easy@maxxvi=\dimen173
-\@easy@maxyvi=\dimen174
+\@easy@minxvi=\dimen179
+\@easy@minyvi=\dimen180
+\@easy@maxxvi=\dimen181
+\@easy@maxyvi=\dimen182
 \@easy@boxv=\box50
-\@easy@minxv=\dimen175
-\@easy@minyv=\dimen176
-\@easy@maxxv=\dimen177
-\@easy@maxyv=\dimen178
+\@easy@minxv=\dimen183
+\@easy@minyv=\dimen184
+\@easy@maxxv=\dimen185
+\@easy@maxyv=\dimen186
 \@easy@boxiv=\box51
-\@easy@minxiv=\dimen179
-\@easy@minyiv=\dimen180
-\@easy@maxxiv=\dimen181
-\@easy@maxyiv=\dimen182
+\@easy@minxiv=\dimen187
+\@easy@minyiv=\dimen188
+\@easy@maxxiv=\dimen189
+\@easy@maxyiv=\dimen190
 \@easy@boxiii=\box52
-\@easy@minxiii=\dimen183
-\@easy@minyiii=\dimen184
-\@easy@maxxiii=\dimen185
-\@easy@maxyiii=\dimen186
+\@easy@minxiii=\dimen191
+\@easy@minyiii=\dimen192
+\@easy@maxxiii=\dimen193
+\@easy@maxyiii=\dimen194
 \@easy@boxii=\box53
-\@easy@minxii=\dimen187
-\@easy@minyii=\dimen188
-\@easy@maxxii=\dimen189
-\@easy@maxyii=\dimen190
+\@easy@minxii=\dimen195
+\@easy@minyii=\dimen196
+\@easy@maxxii=\dimen197
+\@easy@maxyii=\dimen198
 \@easy@boxi=\box54
-\@easy@minxi=\dimen191
-\@easy@minyi=\dimen192
-\@easy@maxxi=\dimen193
-\@easy@maxyi=\dimen194
-\@easy@hsizexxx=\dimen195
-\@easy@vsizexxx=\dimen196
-\@easy@hsizexxix=\dimen197
-\@easy@vsizexxix=\dimen198
-\@easy@hsizexxviii=\dimen199
-\@easy@vsizexxviii=\dimen256
-\@easy@hsizexxvii=\dimen257
-\@easy@vsizexxvii=\dimen258
-\@easy@hsizexxvi=\dimen259
-\@easy@vsizexxvi=\dimen260
-\@easy@hsizexxv=\dimen261
-\@easy@vsizexxv=\dimen262
-\@easy@hsizexxiv=\dimen263
-\@easy@vsizexxiv=\dimen264
-\@easy@hsizexxiii=\dimen265
-\@easy@vsizexxiii=\dimen266
-\@easy@hsizexxii=\dimen267
-\@easy@vsizexxii=\dimen268
-\@easy@hsizexxi=\dimen269
-\@easy@vsizexxi=\dimen270
-\@easy@hsizexx=\dimen271
-\@easy@vsizexx=\dimen272
-\@easy@hsizexix=\dimen273
-\@easy@vsizexix=\dimen274
-\@easy@hsizexviii=\dimen275
-\@easy@vsizexviii=\dimen276
-\@easy@hsizexvii=\dimen277
-\@easy@vsizexvii=\dimen278
-\@easy@hsizexvi=\dimen279
-\@easy@vsizexvi=\dimen280
-\@easy@hsizexv=\dimen281
-\@easy@vsizexv=\dimen282
-\@easy@hsizexiv=\dimen283
-\@easy@vsizexiv=\dimen284
-\@easy@hsizexiii=\dimen285
-\@easy@vsizexiii=\dimen286
-\@easy@hsizexii=\dimen287
-\@easy@vsizexii=\dimen288
-\@easy@hsizexi=\dimen289
-\@easy@vsizexi=\dimen290
-\@easy@hsizex=\dimen291
-\@easy@vsizex=\dimen292
-\@easy@hsizeix=\dimen293
-\@easy@vsizeix=\dimen294
-\@easy@hsizeviii=\dimen295
-\@easy@vsizeviii=\dimen296
-\@easy@hsizevii=\dimen297
-\@easy@vsizevii=\dimen298
-\@easy@hsizevi=\dimen299
-\@easy@vsizevi=\dimen300
-\@easy@hsizev=\dimen301
-\@easy@vsizev=\dimen302
-\@easy@hsizeiv=\dimen303
-\@easy@vsizeiv=\dimen304
-\@easy@hsizeiii=\dimen305
-\@easy@vsizeiii=\dimen306
-\@easy@hsizeii=\dimen307
-\@easy@vsizeii=\dimen308
-\@easy@hsizei=\dimen309
-\@easy@vsizei=\dimen310
-\@easy@dash@len=\dimen311
-\@easy@dash@sep=\dimen312
+\@easy@minxi=\dimen199
+\@easy@minyi=\dimen256
+\@easy@maxxi=\dimen257
+\@easy@maxyi=\dimen258
+\@easy@hsizexxx=\dimen259
+\@easy@vsizexxx=\dimen260
+\@easy@hsizexxix=\dimen261
+\@easy@vsizexxix=\dimen262
+\@easy@hsizexxviii=\dimen263
+\@easy@vsizexxviii=\dimen264
+\@easy@hsizexxvii=\dimen265
+\@easy@vsizexxvii=\dimen266
+\@easy@hsizexxvi=\dimen267
+\@easy@vsizexxvi=\dimen268
+\@easy@hsizexxv=\dimen269
+\@easy@vsizexxv=\dimen270
+\@easy@hsizexxiv=\dimen271
+\@easy@vsizexxiv=\dimen272
+\@easy@hsizexxiii=\dimen273
+\@easy@vsizexxiii=\dimen274
+\@easy@hsizexxii=\dimen275
+\@easy@vsizexxii=\dimen276
+\@easy@hsizexxi=\dimen277
+\@easy@vsizexxi=\dimen278
+\@easy@hsizexx=\dimen279
+\@easy@vsizexx=\dimen280
+\@easy@hsizexix=\dimen281
+\@easy@vsizexix=\dimen282
+\@easy@hsizexviii=\dimen283
+\@easy@vsizexviii=\dimen284
+\@easy@hsizexvii=\dimen285
+\@easy@vsizexvii=\dimen286
+\@easy@hsizexvi=\dimen287
+\@easy@vsizexvi=\dimen288
+\@easy@hsizexv=\dimen289
+\@easy@vsizexv=\dimen290
+\@easy@hsizexiv=\dimen291
+\@easy@vsizexiv=\dimen292
+\@easy@hsizexiii=\dimen293
+\@easy@vsizexiii=\dimen294
+\@easy@hsizexii=\dimen295
+\@easy@vsizexii=\dimen296
+\@easy@hsizexi=\dimen297
+\@easy@vsizexi=\dimen298
+\@easy@hsizex=\dimen299
+\@easy@vsizex=\dimen300
+\@easy@hsizeix=\dimen301
+\@easy@vsizeix=\dimen302
+\@easy@hsizeviii=\dimen303
+\@easy@vsizeviii=\dimen304
+\@easy@hsizevii=\dimen305
+\@easy@vsizevii=\dimen306
+\@easy@hsizevi=\dimen307
+\@easy@vsizevi=\dimen308
+\@easy@hsizev=\dimen309
+\@easy@vsizev=\dimen310
+\@easy@hsizeiv=\dimen311
+\@easy@vsizeiv=\dimen312
+\@easy@hsizeiii=\dimen313
+\@easy@vsizeiii=\dimen314
+\@easy@hsizeii=\dimen315
+\@easy@vsizeii=\dimen316
+\@easy@hsizei=\dimen317
+\@easy@vsizei=\dimen318
+\@easy@dash@len=\dimen319
+\@easy@dash@sep=\dimen320
 )
 Package: easytable 2001/05/31v1.1
-\@tab@size@rule=\dimen313
-\@tab@size@dash=\dimen314
+\@tab@size@rule=\dimen321
+\@tab@size@dash=\dimen322
 ) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count274
-\c@@ppsavesec=\count275
-\c@@ppsaveapp=\count276
+\c@@pps=\count277
+\c@@ppsavesec=\count278
+\c@@ppsaveapp=\count279
+)
+(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
@@ -510,16 +531,22 @@ basics and keyval usage)
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
 )))
-\ta@bcor=\skip71
-\ta@div=\count277
-\ta@hblk=\skip72
-\ta@vblk=\skip73
-\ta@temp=\skip74
-\footheight=\skip75
+\ta@bcor=\skip72
+\ta@div=\count280
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip73
+\ta@vblk=\skip74
+\ta@temp=\skip75
+\footheight=\skip76
 
 
 Package typearea Warning: Bad type area settings!
-(typearea)                The detected line width is about 17%
+(typearea)                The detected line width is about 29%
 (typearea)                larger than the heuristically estimated maximum
 (typearea)                limit of typographical good line width.
 (typearea)                You should e.g. decrease DIV, increase fontsize
@@ -530,17 +557,17 @@ Package typearea Info: These are the values describing the layout:
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
 (typearea)              \textwidth      = 459.6215pt
-(typearea)              DIV departure   = -17%
+(typearea)              DIV departure   = -29%
 (typearea)              \evensidemargin = 19.6543pt
 (typearea)              \oddsidemargin  = -26.30785pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 650.20029pt
-(typearea)              \topmargin      = -44.6664pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.6pt
-(typearea)              \baselineskip   = 13.6pt
+(typearea)              \textheight     = 658.0pt
+(typearea)              \topmargin      = -40.26639pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
 (typearea)              on input line 1719.
 ) (/usr/share/texlive/texmf-dist/tex/generic/xypic/xy.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xy.tex Bootstrap'ing:
@@ -552,45 +579,45 @@ catcodes, docmode, (/usr/share/texlive/texmf-dist/tex/generic/xypic/xyrecat.tex
  Xy-pic is free software: see the User's Guide for details.
 
 Loading kernel: messages; fonts; allocations: state,
-\X@c=\dimen315
-\Y@c=\dimen316
-\U@c=\dimen317
-\D@c=\dimen318
-\L@c=\dimen319
-\R@c=\dimen320
+\X@c=\dimen323
+\Y@c=\dimen324
+\U@c=\dimen325
+\D@c=\dimen326
+\L@c=\dimen327
+\R@c=\dimen328
 \Edge@c=\toks29
-\X@p=\dimen321
-\Y@p=\dimen322
-\U@p=\dimen323
-\D@p=\dimen324
-\L@p=\dimen325
-\R@p=\dimen326
+\X@p=\dimen329
+\Y@p=\dimen330
+\U@p=\dimen331
+\D@p=\dimen332
+\L@p=\dimen333
+\R@p=\dimen334
 \Edge@p=\toks30
-\X@origin=\dimen327
-\Y@origin=\dimen328
-\X@xbase=\dimen329
-\Y@xbase=\dimen330
-\X@ybase=\dimen331
-\Y@ybase=\dimen332
-\X@min=\dimen333
-\Y@min=\dimen334
-\X@max=\dimen335
-\Y@max=\dimen336
+\X@origin=\dimen335
+\Y@origin=\dimen336
+\X@xbase=\dimen337
+\Y@xbase=\dimen338
+\X@ybase=\dimen339
+\Y@ybase=\dimen340
+\X@min=\dimen341
+\Y@min=\dimen342
+\X@max=\dimen343
+\Y@max=\dimen344
 \lastobjectbox@=\box55
 \zerodotbox@=\box56
-\almostz@=\dimen337
+\almostz@=\dimen345
  direction,
-\d@X=\dimen338
-\d@Y=\dimen339
-\K@=\count278
-\KK@=\count279
-\Direction=\count280
-\K@dXdY=\dimen340
-\K@dYdX=\dimen341
+\d@X=\dimen346
+\d@Y=\dimen347
+\K@=\count281
+\KK@=\count282
+\Direction=\count283
+\K@dXdY=\dimen348
+\K@dYdX=\dimen349
 \xyread@=\read2
 \xywrite@=\write3
-\csp@=\count281
-\quotPTK@=\dimen342
+\csp@=\count284
+\quotPTK@=\dimen350
 
 utility macros; pictures: \xy, positions,
 \swaptoks@@=\toks31
@@ -613,21 +640,21 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  Xy-pic option: All features v.3.8
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xycurve.tex
  Xy-pic option: Curve and Spline extension v.3.12 curve,
-\crv@cnt@=\count282
+\crv@cnt@=\count285
 \crvpts@=\toks33
 \splinebox@=\box58
-\splineval@=\dimen343
-\splinedepth@=\dimen344
-\splinetol@=\dimen345
-\splinelength@=\dimen346
+\splineval@=\dimen351
+\splinedepth@=\dimen352
+\splinetol@=\dimen353
+\splinelength@=\dimen354
  circles,
-\L@=\dimen347
+\L@=\dimen355
  loaded)
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xyframe.tex
  Xy-pic option: Frame and Bracket extension v.3.14 loaded)
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xyline.tex
  Xy-pic option: Line styles extension v.3.10
-\xylinethick@=\dimen348
+\xylinethick@=\dimen356
  loaded)
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xyrotate.tex
  Xy-pic option: Rotate and Scale extension v.3.8 loaded)
@@ -635,13 +662,13 @@ Package: xy 2013/10/06 Xy-pic version 3.8.9
  Xy-pic option: Colour extension v.3.11 loaded)
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xymatrix.tex
  Xy-pic option: Matrix feature v.3.14
-\Row=\count283
-\Col=\count284
+\Row=\count286
+\Col=\count287
 \queue@=\toks34
 \queue@@=\toks35
-\qcount@=\count285
-\qcount@@=\count286
-\matrixsize@=\count287
+\qcount@=\count288
+\qcount@@=\count289
+\matrixsize@=\count290
  loaded)
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xyarrow.tex
  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
@@ -663,8 +690,8 @@ Xy-pic pdf driver: `rotate' extension support
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks36
-\pgfutil@tempdima=\dimen349
-\pgfutil@tempdimb=\dimen350
+\pgfutil@tempdima=\dimen357
+\pgfutil@tempdimb=\dimen358
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -691,26 +718,26 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 ex
 \pgfkeys@tmptoks=\toks39
 ))
-\pgf@x=\dimen351
-\pgf@y=\dimen352
-\pgf@xa=\dimen353
-\pgf@ya=\dimen354
-\pgf@xb=\dimen355
-\pgf@yb=\dimen356
-\pgf@xc=\dimen357
-\pgf@yc=\dimen358
-\pgf@xd=\dimen359
-\pgf@yd=\dimen360
+\pgf@x=\dimen359
+\pgf@y=\dimen360
+\pgf@xa=\dimen361
+\pgf@ya=\dimen362
+\pgf@xb=\dimen363
+\pgf@yb=\dimen364
+\pgf@xc=\dimen365
+\pgf@yc=\dimen366
+\pgf@xd=\dimen367
+\pgf@yd=\dimen368
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count288
-\c@pgf@countb=\count289
-\c@pgf@countc=\count290
-\c@pgf@countd=\count291
+\c@pgf@counta=\count291
+\c@pgf@countb=\count292
+\c@pgf@countc=\count293
+\c@pgf@countd=\count294
 \t@pgf@toka=\toks40
 \t@pgf@tokb=\toks41
 \t@pgf@tokc=\toks42
-\pgf@sys@id@count=\count292
+\pgf@sys@id@count=\count295
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -726,8 +753,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count293
-\pgfsyssoftpath@bigbuffer@items=\count294
+\pgfsyssoftpath@smallbuffer@items=\count296
+\pgfsyssoftpath@bigbuffer@items=\count297
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -740,8 +767,8 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen361
-\pgfmath@count=\count295
+\pgfmath@dimen=\dimen369
+\pgfmath@count=\count298
 \pgfmath@box=\box60
 \pgfmath@toks=\toks43
 \pgfmath@stack@operand=\toks44
@@ -765,38 +792,38 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count296
+\c@pgfmathroundto@lastzeros=\count299
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen362
-\pgf@picmaxx=\dimen363
-\pgf@picminy=\dimen364
-\pgf@picmaxy=\dimen365
-\pgf@pathminx=\dimen366
-\pgf@pathmaxx=\dimen367
-\pgf@pathminy=\dimen368
-\pgf@pathmaxy=\dimen369
-\pgf@xx=\dimen370
-\pgf@xy=\dimen371
-\pgf@yx=\dimen372
-\pgf@yy=\dimen373
-\pgf@zx=\dimen374
-\pgf@zy=\dimen375
+\pgf@picminx=\dimen370
+\pgf@picmaxx=\dimen371
+\pgf@picminy=\dimen372
+\pgf@picmaxy=\dimen373
+\pgf@pathminx=\dimen374
+\pgf@pathmaxx=\dimen375
+\pgf@pathminy=\dimen376
+\pgf@pathmaxy=\dimen377
+\pgf@xx=\dimen378
+\pgf@xy=\dimen379
+\pgf@yx=\dimen380
+\pgf@yy=\dimen381
+\pgf@zx=\dimen382
+\pgf@zy=\dimen383
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen376
-\pgf@path@lasty=\dimen377
+\pgf@path@lastx=\dimen384
+\pgf@path@lasty=\dimen385
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen378
-\pgf@shorten@start@additional=\dimen379
+\pgf@shorten@end@additional=\dimen386
+\pgf@shorten@start@additional=\dimen387
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
@@ -804,19 +831,19 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box61
 \pgf@hbox=\box62
 \pgf@layerbox@main=\box63
-\pgf@picture@serial@count=\count297
+\pgf@picture@serial@count=\count300
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen380
+\pgflinewidth=\dimen388
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen381
-\pgf@pt@y=\dimen382
-\pgf@pt@temp=\dimen383
+\pgf@pt@x=\dimen389
+\pgf@pt@y=\dimen390
+\pgf@pt@temp=\dimen391
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -832,13 +859,13 @@ File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen384
+\pgfarrowsep=\dimen392
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen385
-\pgf@sys@shading@range@num=\count298
-\pgf@shadingcount=\count299
+\pgf@max=\dimen393
+\pgf@sys@shading@range@num=\count301
+\pgf@shadingcount=\count302
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -872,8 +899,8 @@ File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen386
-\pgf@nodesepend=\dimen387
+\pgf@nodesepstart=\dimen394
+\pgf@nodesepend=\dimen395
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -887,8 +914,8 @@ Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen388
-\pgffor@skip=\dimen389
+\pgffor@iter=\dimen396
+\pgffor@skip=\dimen397
 \pgffor@stack=\toks46
 \pgffor@toks=\toks47
 ))
@@ -898,33 +925,33 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count300
-\pgfplotmarksize=\dimen390
+\pgf@plot@mark@count=\count303
+\pgfplotmarksize=\dimen398
 )
-\tikz@lastx=\dimen391
-\tikz@lasty=\dimen392
-\tikz@lastxsaved=\dimen393
-\tikz@lastysaved=\dimen394
-\tikz@lastmovetox=\dimen395
-\tikz@lastmovetoy=\dimen396
-\tikzleveldistance=\dimen397
-\tikzsiblingdistance=\dimen398
+\tikz@lastx=\dimen399
+\tikz@lasty=\dimen400
+\tikz@lastxsaved=\dimen401
+\tikz@lastysaved=\dimen402
+\tikz@lastmovetox=\dimen403
+\tikz@lastmovetoy=\dimen404
+\tikzleveldistance=\dimen405
+\tikzsiblingdistance=\dimen406
 \tikz@figbox=\box66
 \tikz@figbox@bg=\box67
 \tikz@tempbox=\box68
 \tikz@tempbox@bg=\box69
-\tikztreelevel=\count301
-\tikznumberofchildren=\count302
-\tikznumberofcurrentchild=\count303
-\tikz@fig@count=\count304
+\tikztreelevel=\count304
+\tikznumberofchildren=\count305
+\tikznumberofcurrentchild=\count306
+\tikz@fig@count=\count307
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count305
-\pgfmatrixcurrentcolumn=\count306
-\pgf@matrix@numberofcolumns=\count307
+\pgfmatrixcurrentrow=\count308
+\pgfmatrixcurrentcolumn=\count309
+\pgf@matrix@numberofcolumns=\count310
 )
-\tikz@expandcount=\count308
+\tikz@expandcount=\count311
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -938,60 +965,64 @@ Package braids Warning: This package has been reimplemented as a TikZ library;
 if starting with a fresh document, please consider using that instead. on input
  line 19.
 
-\braid@width=\dimen399
-\braid@height=\dimen400
-\braid@tx=\dimen401
-\braid@ty=\dimen402
-\braid@nx=\dimen403
-\braid@ny=\dimen404
-\braid@cy=\dimen405
-\braid@dy=\dimen406
-\braid@eh=\dimen407
-\c@braid@level=\count309
-\c@braid@strands=\count310
+\braid@width=\dimen407
+\braid@height=\dimen408
+\braid@tx=\dimen409
+\braid@ty=\dimen410
+\braid@nx=\dimen411
+\braid@ny=\dimen412
+\braid@cy=\dimen413
+\braid@dy=\dimen414
+\braid@eh=\dimen415
+\c@braid@level=\count312
+\c@braid@strands=\count313
 ) (/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed) + inter
 mediate FMi
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen408
+\col@sep=\dimen416
 \ar@mcellbox=\box70
-\extrarowheight=\dimen409
+\extrarowheight=\dimen417
 \NC@list=\toks48
-\extratabsurround=\skip76
-\backup@length=\skip77
+\extratabsurround=\skip77
+\backup@length=\skip78
 \ar@cellbox=\box71
 )
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box72
-\sift@deathcycles=\count311
-\@vwid@loff=\dimen410
-\@vwid@roff=\dimen411
+\sift@deathcycles=\count314
+\@vwid@loff=\dimen418
+\@vwid@roff=\dimen419
 )
-\c@taburow=\count312
-\tabu@nbcols=\count313
-\tabu@cnt=\count314
-\tabu@Xcol=\count315
-\tabu@alloc=\count316
-\tabu@nested=\count317
-\tabu@target=\dimen412
-\tabu@spreadtarget=\dimen413
-\tabu@naturalX=\dimen414
-\tabucolX=\dimen415
-\tabu@Xsum=\dimen416
-\extrarowdepth=\dimen417
-\abovetabulinesep=\dimen418
-\belowtabulinesep=\dimen419
-\tabustrutrule=\dimen420
+\c@taburow=\count315
+\tabu@nbcols=\count316
+\tabu@cnt=\count317
+\tabu@Xcol=\count318
+\tabu@alloc=\count319
+\tabu@nested=\count320
+\tabu@target=\dimen420
+\tabu@spreadtarget=\dimen421
+\tabu@naturalX=\dimen422
+\tabucolX=\dimen423
+\tabu@Xsum=\dimen424
+\extrarowdepth=\dimen425
+\abovetabulinesep=\dimen426
+\belowtabulinesep=\dimen427
+\tabustrutrule=\dimen428
 \tabu@thebody=\toks49
 \tabu@footnotes=\toks50
 \tabu@box=\box73
 \tabu@arstrutbox=\box74
 \tabu@hleads=\box75
 \tabu@vleads=\box76
-\tabu@cellskip=\skip78
+\tabu@cellskip=\skip79
+)
+(/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
 )
 (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -999,24 +1030,24 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count318
-\c@Blindtext=\count319
-\c@blind@countparstart=\count320
-\blind@countxx=\count321
-\blindtext@numBlindtext=\count322
-\blind@countyy=\count323
-\c@blindlist=\count324
-\c@blindlistlevel=\count325
-\c@blindlist@level=\count326
-\blind@listitem=\count327
-\c@blind@listcount=\count328
-\c@blind@levelcount=\count329
-\blind@mathformula=\count330
-\blind@Mathformula=\count331
-\c@blind@randomcount=\count332
-\c@blind@randommax=\count333
-\c@blind@pangramcount=\count334
-\c@blind@pangrammax=\count335
+\c@blindtext=\count321
+\c@Blindtext=\count322
+\c@blind@countparstart=\count323
+\blind@countxx=\count324
+\blindtext@numBlindtext=\count325
+\blind@countyy=\count326
+\c@blindlist=\count327
+\c@blindlistlevel=\count328
+\c@blindlist@level=\count329
+\blind@listitem=\count330
+\c@blind@listcount=\count331
+\c@blind@levelcount=\count332
+\blind@mathformula=\count333
+\blind@Mathformula=\count334
+\c@blind@randomcount=\count335
+\c@blind@randommax=\count336
+\c@blind@pangramcount=\count337
+\c@blind@pangrammax=\count338
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarymatrix.code.tex
@@ -1027,23 +1058,23 @@ zlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count336
+\lst@mode=\count339
 \lst@gtempboxa=\box77
 \lst@token=\toks51
-\lst@length=\count337
-\lst@currlwidth=\dimen421
-\lst@column=\count338
-\lst@pos=\count339
-\lst@lostspace=\dimen422
-\lst@width=\dimen423
-\lst@newlines=\count340
-\lst@lineno=\count341
-\lst@maxwidth=\dimen424
+\lst@length=\count340
+\lst@currlwidth=\dimen429
+\lst@column=\count341
+\lst@pos=\count342
+\lst@lostspace=\dimen430
+\lst@width=\dimen431
+\lst@newlines=\count343
+\lst@lineno=\count344
+\lst@maxwidth=\dimen432
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count342
-\lst@skipnumbers=\count343
+\c@lstnumber=\count345
+\lst@skipnumbers=\count346
 \lst@framebox=\box78
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -1061,48 +1092,195 @@ File: lstlang2.sty 2019/09/10 1.8c listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/tikz-qtree/pgftree.sty
 (/usr/share/texlive/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.sty
 (/usr/share/texlive/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.tex
-\pgf@subpicminx=\dimen425
-\pgf@subpicminy=\dimen426
-\pgf@subpicmaxx=\dimen427
-\pgf@subpicmaxy=\dimen428
+\pgf@subpicminx=\dimen433
+\pgf@subpicminy=\dimen434
+\pgf@subpicmaxx=\dimen435
+\pgf@subpicmaxy=\dimen436
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/tikz-qtree/pgftree.tex
-\levelsep=\dimen429
-\subtreesep=\dimen430
-\smuggle@levelsep=\dimen431
-\smuggle@subtreesep=\dimen432
-\this@levelsep=\dimen433
-\this@subtreesep=\dimen434
-\pgftree@childx=\dimen435
-\pgftree@savechildx=\dimen436
-\pgftree@childy=\dimen437
-\pgftree@savechildy=\dimen438
-\pgftree@childi=\count344
-\pgftree@savechildi=\count345
-\pgftree@level=\count346
-\pgftree@depth=\dimen439
+\levelsep=\dimen437
+\subtreesep=\dimen438
+\smuggle@levelsep=\dimen439
+\smuggle@subtreesep=\dimen440
+\this@levelsep=\dimen441
+\this@subtreesep=\dimen442
+\pgftree@childx=\dimen443
+\pgftree@savechildx=\dimen444
+\pgftree@childy=\dimen445
+\pgftree@savechildy=\dimen446
+\pgftree@childi=\count347
+\pgftree@savechildi=\count348
+\pgftree@level=\count349
+\pgftree@depth=\dimen447
 \pgf@subpic@hbox@children=\box79
-\pgf@subpic@minx@children=\dimen440
-\pgf@subpic@miny@children=\dimen441
-\pgf@subpic@maxx@children=\dimen442
-\pgf@subpic@maxy@children=\dimen443
-\pgftree@lastchildx=\dimen444
-\pgftree@lastchildy=\dimen445
+\pgf@subpic@minx@children=\dimen448
+\pgf@subpic@miny@children=\dimen449
+\pgf@subpic@maxx@children=\dimen450
+\pgf@subpic@maxy@children=\dimen451
+\pgftree@lastchildx=\dimen452
+\pgftree@lastchildy=\dimen453
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/tikz-qtree/tikz-qtree.tex
 \@result=\toks52
 \child@list=\toks53
 \root@node=\toks54
 ))
-\c@Thm=\count347
-\c@theorem=\count348
+\c@Thm=\count350
+\c@theorem=\count351
 
+(/usr/share/texlive/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip80
+\absleftindent=\skip81
+\absrightindent=\skip82
+\absparindent=\skip83
+\absparsep=\skip84
+)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2019/07/01 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
 
-Package amsthm Warning: Unknown theoremstyle `Rem' on input line 39.
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks55
+\XKV@tempa@toks=\toks56
+)
+\XKV@depth=\count352
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 494.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/libertinust1math/libertinust1math.sty
+Package: libertinust1math 2017/08/16 v1.1---latex support for LibertinusT1Math 
+(msharpe)
+Now handling font encoding LS1 ...
+... no UTF-8 mapping file for font encoding LS1
+Now handling font encoding LS2 ...
+... no UTF-8 mapping file for font encoding LS2
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 68.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `normal' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> LS1/libertinust1math/m/it on input lin
+e 68.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `bold' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> LS1/libertinust1math/m/it on input lin
+e 68.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 69.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 69.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> LS1/libertinust1math/m/n on input line 
+69.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 69.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> LS1/libertinust1math/m/n on input line
+ 69.
+\symsymbolsbb=\mathgroup8
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 71.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS2' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 71.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LS2/libertinust1mathsym/m/n on input l
+ine 71.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS2' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 71.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LS2/libertinust1mathsym/m/n on input l
+ine 71.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 72.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 7
+2.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LS2/libertinust1mathex/m/n on input li
+ne 72.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 72.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LS2/libertinust1mathex/m/n on input li
+ne 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> LS1/libertinust1mathsf/m/n on input li
+ne 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> LS1/libertinust1mathsf/m/n on input l
+ine 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathsfbf on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `normal'
+(Font)                  LS1/libertinust1mathsf/b/n --> LS1/libertinust1mathsf/b
+/n on input line 82.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `bold'
+(Font)                  LS1/libertinust1mathsf/b/n --> LS1/libertinust1mathsf/b
+/n on input line 82.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  LS1/libertinust1math/m/it --> LS1/libertinust1math/b/it
+ on input line 84.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  LS1/libertinust1math/m/n --> LS1/libertinust1math/b/n o
+n input line 85.
+\symbold-operators=\mathgroup9
+\symbold-letters=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 88.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 90.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  LS1/libertinust1mathsf/m/n --> LS1/libertinust1mathsf/b
+/n on input line 118.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/stixcal/m/n --> U/stixcal/b/n on input line 131.
+LaTeX Info: Redefining \checkmark on input line 585.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 659.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 660.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 661.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 662.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 663.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 664.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 665.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 666.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 668.
+LaTeX Font Info:    Redeclaring math accent \check on input line 669.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 677.
+LaTeX Info: Redefining \vdots on input line 1082.
+LaTeX Info: Redefining \cdots on input line 1086.
+LaTeX Info: Redefining \not on input line 1326.
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count349
+\l__kernel_color_stack_int=\count353
 \l__pdf_internal_box=\box80
 )
 (./thesis.aux
@@ -1115,25 +1293,91 @@ LaTeX Warning: Label `alpha@cref' multiply defined.
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for LS1/libertinust1math/m/n on input lin
+e 208.
+LaTeX Font Info:    Trying to load font information for LS1+libertinust1math on
+ input line 208.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertinust1math/ls1libertinust1math.f
+d
+File: ls1libertinust1math.fd 2016/03/23 Fontinst v1.933 font definitions for LS
+1/libertinust1math.
+)
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for LS2/libertinust1mathsym/m/n on input 
+line 208.
+LaTeX Font Info:    Trying to load font information for LS2+libertinust1mathsym
+ on input line 208.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertinust1math/ls2libertinust1mathsy
+m.fd
+File: ls2libertinust1mathsym.fd 2015/04/17 v1.1.2-latex LibertinusT1Mathsym LS2
+ font definitions
+)
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 208.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 208.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 772.77686pt, 36.135pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=459.6215pt
+* \textheight=658.0pt
+* \oddsidemargin=-26.30785pt
+* \evensidemargin=19.6543pt
+* \topmargin=-40.26639pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=68.9432pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 \AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 138.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package hyperref Info: Link coloring OFF on input line 208.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1142,11 +1386,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count350
+\c@section@level=\count354
 )
-LaTeX Info: Redefining \ref on input line 138.
-LaTeX Info: Redefining \pageref on input line 138.
-LaTeX Info: Redefining \nameref on input line 138.
+LaTeX Info: Redefining \ref on input line 208.
+LaTeX Info: Redefining \pageref on input line 208.
+LaTeX Info: Redefining \nameref on input line 208.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write5
@@ -1155,17 +1399,17 @@ LaTeX Info: Redefining \nameref on input line 138.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count351
-\scratchdimen=\dimen446
+\scratchcounter=\count355
+\scratchdimen=\dimen454
 \scratchbox=\box82
-\nofMPsegments=\count352
-\nofMParguments=\count353
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count354
-\MPscratchDim=\dimen447
-\MPnumerator=\count355
-\makeMPintoPDFobject=\count356
-\everyMPtoPDFconversion=\toks56
+\nofMPsegments=\count356
+\nofMParguments=\count357
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count358
+\MPscratchDim=\dimen455
+\MPnumerator=\count359
+\makeMPintoPDFobject=\count360
+\everyMPtoPDFconversion=\toks58
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1175,56 +1419,248 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
-38.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 6.5pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 6.5pt on input line 208.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 6.5pt on input line 208.
+LaTeX Font Info:    Trying to load font information for LS2+libertinust1mathex 
+on input line 208.
 
-(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 138
+(/usr/share/texlive/texmf-dist/tex/latex/libertinust1math/ls2libertinust1mathex
+.fd
+File: ls2libertinust1mathex.fd 2016/03/15 v1.0.0-latex LibertinusMath extension
+s LS2 font definitions
+)
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 6.5pt on input line 208.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 208
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 138
+LaTeX Font Info:    Trying to load font information for U+msb on input line 208
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 20
 8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Package xypdf Info: Line width: 0.43799pt on input line 138.
 
-ABD: EveryShipout initializing macros
-\c@lstlisting=\count357
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 208.
 
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 2
+08.
+(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 
-LaTeX Warning: No \author given.
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 208.
 
-[1
+LaTeX Font Info:    Trying to load font information for LS1+libertinust1mathbb 
+on input line 208.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertinust1math/ls1libertinust1mathbb
+.fd
+File: ls1libertinust1mathbb.fd 2016/08/22 latex LibertinusT1Mathbb LS1 font def
+initions
+)
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 6.5pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 6.5pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 10.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 8.0pt on input line 208.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 6.5pt on input line 208.
+Package xypdf Info: Line width: 0.4pt on input line 208.
+ ABD: EveryShipout initializing macros
+\c@lstlisting=\count361
+\c@mv@tabular=\count362
+\c@mv@boldtabular=\count363
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 213.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 6.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 12.0pt on input line 213.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 6.0pt on input line 213.
+ [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] (./thesis.toc)
+]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 214.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.221 \end{acknowledgements}
+                             [1]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 227.
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.230 \clearpage
+                 [2
+
+]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 231.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 231.
+ (./thesis.toc)
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
+ [3
 
-[3] [4
+
+] [4
 
 ]
 Chapter 1.
-[5] [6
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 233.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 233.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 236.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.5pt on input line 236.
+Package epstopdf Info: Source file: <./pics/b-tensorc.eps>
+(epstopdf)                    date: 2020-10-04 17:01:03
+(epstopdf)                    size: 3909 bytes
+(epstopdf)             Output file: <./pics/b-tensorc-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-04 17:01:09
+(epstopdf)                    size: 3206 bytes
+(epstopdf)             Command: <repstopdf --outfile=./pics/b-tensorc-eps-conve
+rted-to.pdf ./pics/b-tensorc.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/b-tensorc-eps-converted-to.pdf, id=161, 567.11874pt x 570.13pt>
+File: ./pics/b-tensorc-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/b-tensorc-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/b-tensorc-eps-converted-to.pdf  used on input l
+ine 240.
+(pdftex.def)             Requested size: 137.88785pt x 138.61739pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.247  \end{Thm}
+                 [1]
+Overfull \hbox (6.86559pt too wide) in paragraph at lines 248--252
+[]\T1/LinuxLibertineT-TLF/m/n/10 We also prove a small the-o-rem about mod-u-la
+r data-preserving bi-jec-tions be-tween twisted dou-bles of non-isomorphic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--252
+
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 252.
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.252 \begin{Thm}
+                 [=Theorem \ref{thm:tensorchar}] [2 <./pics/b-tensorc-eps-conve
+rted-to.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{
+page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.271 \chapter
+              {Preliminaries}\label{prelims} [3]pdfTeX warning (ext4): destinat
+ion with the same identifier (name{page.4}) has been already used, duplicate ig
+nored
+<to be read again> 
+                   \relax 
+l.271 \chapter
+              {Preliminaries}\label{prelims} [4
 
 ]
 Chapter 2.
-<xymatrix 4x3 247> [7] <xymatrix 3x2 145> <xymatrix 3x3 284> <xymatrix 2x2
-182> [8]
+<xymatrix 2x2 137>
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 357.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 357.
+ <xymatrix 4x3 247> [5] <xymatrix 3x2 145> <xymatrix 3x3
+284> <xymatrix 2x2 182> [6]
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
 Package epstopdf Info: Source file: <./pics/morphnew.eps>
 (epstopdf)                    date: 2020-09-28 17:29:49
 (epstopdf)                    size: 12818 bytes
@@ -1233,13 +1669,13 @@ Package epstopdf Info: Source file: <./pics/morphnew.eps>
 (epstopdf)                    size: 7261 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/morphnew-eps-conver
 ted-to.pdf ./pics/morphnew.eps>
-(epstopdf)             \includegraphics on input line 272.
+(epstopdf)             \includegraphics on input line 430.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/morphnew-eps-converted-to.pdf, id=242, 125.46875pt x 196.735pt>
+<./pics/morphnew-eps-converted-to.pdf, id=265, 125.46875pt x 196.735pt>
 File: ./pics/morphnew-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/morphnew-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/morphnew-eps-converted-to.pdf  used on input li
-ne 272.
+ne 430.
 (pdftex.def)             Requested size: 68.94041pt x 108.1025pt.
 Package epstopdf Info: Source file: <./pics/morphism.eps>
 (epstopdf)                    date: 2020-09-22 12:43:06
@@ -1249,32 +1685,34 @@ Package epstopdf Info: Source file: <./pics/morphism.eps>
 (epstopdf)                    size: 6733 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/morphism-eps-conver
 ted-to.pdf ./pics/morphism.eps>
-(epstopdf)             \includegraphics on input line 277.
+(epstopdf)             \includegraphics on input line 436.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/morphism-eps-converted-to.pdf, id=243, 35.13126pt x 194.7275pt>
+<./pics/morphism-eps-converted-to.pdf, id=266, 35.13126pt x 194.7275pt>
 File: ./pics/morphism-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/morphism-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/morphism-eps-converted-to.pdf  used on input li
-ne 277.
+ne 436.
 (pdftex.def)             Requested size: 18.38176pt x 101.88582pt.
 Package epstopdf Info: Source file: <./pics/tensor.eps>
-(epstopdf)                    date: 2020-09-22 12:41:30
-(epstopdf)                    size: 13343 bytes
+(epstopdf)                    date: 2020-11-11 15:02:43
+(epstopdf)                    size: 12463 bytes
 (epstopdf)             Output file: <./pics/tensor-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-09-22 12:44:33
-(epstopdf)                    size: 7476 bytes
+(epstopdf)                    date: 2020-11-11 15:02:53
+(epstopdf)                    size: 7189 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/tensor-eps-converte
 d-to.pdf ./pics/tensor.eps>
-(epstopdf)             \includegraphics on input line 282.
+(epstopdf)             \includegraphics on input line 441.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/tensor-eps-converted-to.pdf, id=244, 103.38625pt x 196.735pt>
+<./pics/tensor-eps-converted-to.pdf, id=267, 103.38625pt x 196.735pt>
 File: ./pics/tensor-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/tensor-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/tensor-eps-converted-to.pdf  used on input line
- 282.
+ 441.
 (pdftex.def)             Requested size: 45.96495pt x 87.46724pt.
- [9 <./pics/morphnew-eps-converted-to.pdf> <./pics/morphism-eps-converted-to.pd
-f> <./pics/tensor-eps-converted-to.pdf>]
+[7 <./pics/morphnew-eps-converted-to.pdf> <./pics/morphism-eps-converted-to.pdf
+> <./pics/tensor-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 444.
 Package epstopdf Info: Source file: <./pics/duals.eps>
 (epstopdf)                    date: 2020-08-05 16:48:12
 (epstopdf)                    size: 9005 bytes
@@ -1283,13 +1721,13 @@ Package epstopdf Info: Source file: <./pics/duals.eps>
 (epstopdf)                    size: 5916 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/duals-eps-converted
 -to.pdf ./pics/duals.eps>
-(epstopdf)             \includegraphics on input line 292.
+(epstopdf)             \includegraphics on input line 452.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/duals-eps-converted-to.pdf, id=271, 217.81375pt x 76.285pt>
+<./pics/duals-eps-converted-to.pdf, id=294, 217.81375pt x 76.285pt>
 File: ./pics/duals-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/duals-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/duals-eps-converted-to.pdf  used on input line 
-292.
+452.
 (pdftex.def)             Requested size: 183.8458pt x 64.38858pt.
 Package epstopdf Info: Source file: <./pics/snake.eps>
 (epstopdf)                    date: 2020-08-05 16:30:00
@@ -1299,126 +1737,169 @@ Package epstopdf Info: Source file: <./pics/snake.eps>
 (epstopdf)                    size: 7182 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/snake-eps-converted
 -to.pdf ./pics/snake.eps>
-(epstopdf)             \includegraphics on input line 297.
+(epstopdf)             \includegraphics on input line 457.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/snake-eps-converted-to.pdf, id=272, 554.07pt x 205.76875pt>
+<./pics/snake-eps-converted-to.pdf, id=295, 554.07pt x 205.76875pt>
 File: ./pics/snake-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/snake-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/snake-eps-converted-to.pdf  used on input line 
-297.
+457.
 (pdftex.def)             Requested size: 275.7757pt x 102.41629pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
-
- []
-
 Package epstopdf Info: Source file: <./pics/fdual.eps>
-(epstopdf)                    date: 2020-09-28 17:37:28
-(epstopdf)                    size: 11290 bytes
+(epstopdf)                    date: 2020-12-11 17:17:55
+(epstopdf)                    size: 11276 bytes
 (epstopdf)             Output file: <./pics/fdual-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-09-28 17:41:21
-(epstopdf)                    size: 6871 bytes
+(epstopdf)                    date: 2020-12-11 17:20:25
+(epstopdf)                    size: 6865 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/fdual-eps-converted
 -to.pdf ./pics/fdual.eps>
-(epstopdf)             \includegraphics on input line 315.
+(epstopdf)             \includegraphics on input line 477.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/fdual-eps-converted-to.pdf, id=273, 132.495pt x 192.72pt>
+<./pics/fdual-eps-converted-to.pdf, id=296, 132.495pt x 192.72pt>
 File: ./pics/fdual-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/fdual-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/fdual-eps-converted-to.pdf  used on input line 
-315.
+477.
 (pdftex.def)             Requested size: 68.94041pt x 100.27672pt.
-[10 <./pics/duals-eps-converted-to.pdf> <./pics/snake-eps-converted-to.pdf> <./
+ [8 <./pics/duals-eps-converted-to.pdf> <./pics/snake-eps-converted-to.pdf> <./
 pics/fdual-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./pics/dualcomposition.eps>
-(epstopdf)                    date: 2020-09-28 17:41:16
-(epstopdf)                    size: 19700 bytes
+(epstopdf)                    date: 2020-12-11 17:19:19
+(epstopdf)                    size: 19672 bytes
 (epstopdf)             Output file: <./pics/dualcomposition-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2020-09-28 17:41:21
-(epstopdf)                    size: 9628 bytes
+(epstopdf)                    date: 2020-12-11 17:20:25
+(epstopdf)                    size: 9620 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/dualcomposition-eps
 -converted-to.pdf ./pics/dualcomposition.eps>
-(epstopdf)             \includegraphics on input line 354.
+(epstopdf)             \includegraphics on input line 498.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/dualcomposition-eps-converted-to.pdf, id=304, 501.875pt x 256.96pt>
+<./pics/dualcomposition-eps-converted-to.pdf, id=327, 501.875pt x 256.96pt>
 File: ./pics/dualcomposition-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/dualcomposition-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/dualcomposition-eps-converted-to.pdf  used on i
-nput line 354.
+nput line 498.
 (pdftex.def)             Requested size: 229.81075pt x 117.66586pt.
- [11 <./pics/dualcomposition-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./pics/lefttrace.eps>
-(epstopdf)                    date: 2020-08-05 16:13:53
-(epstopdf)                    size: 8920 bytes
+(epstopdf)                    date: 2020-12-15 19:04:01
+(epstopdf)                    size: 4396 bytes
 (epstopdf)             Output file: <./pics/lefttrace-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-08-05 16:14:00
-(epstopdf)                    size: 5791 bytes
+(epstopdf)                    date: 2020-12-15 19:07:14
+(epstopdf)                    size: 3383 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/lefttrace-eps-conve
 rted-to.pdf ./pics/lefttrace.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 533.
 Package epstopdf Info: Output file is already uptodate.
 <./pics/lefttrace-eps-converted-to.pdf, id=330, 79.29625pt x 179.67125pt>
 File: ./pics/lefttrace-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/lefttrace-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/lefttrace-eps-converted-to.pdf  used on input l
-ine 389.
+ine 533.
 (pdftex.def)             Requested size: 36.77055pt x 83.31871pt.
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{equation.2.
+9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.534 \end{center}
+                   <./pics/dualcomposition-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./pics/righttrace.eps>
-(epstopdf)                    date: 2020-08-04 18:29:39
-(epstopdf)                    size: 8922 bytes
+(epstopdf)                    date: 2020-12-15 19:03:51
+(epstopdf)                    size: 4381 bytes
 (epstopdf)             Output file: <./pics/righttrace-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-08-04 18:29:45
-(epstopdf)                    size: 5792 bytes
+(epstopdf)                    date: 2020-12-15 19:07:14
+(epstopdf)                    size: 3396 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/righttrace-eps-conv
 erted-to.pdf ./pics/righttrace.eps>
-(epstopdf)             \includegraphics on input line 397.
+(epstopdf)             \includegraphics on input line 541.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/righttrace-eps-converted-to.pdf, id=331, 77.28876pt x 179.67125pt>
+<./pics/righttrace-eps-converted-to.pdf, id=350, 77.28876pt x 179.67125pt>
 File: ./pics/righttrace-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/righttrace-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/righttrace-eps-converted-to.pdf  used on input 
-line 397.
+line 541.
 (pdftex.def)             Requested size: 36.77055pt x 85.4818pt.
- [12 <./pics/lefttrace-eps-converted-to.pdf> <./pics/righttrace-eps-converted-t
+ [10 <./pics/lefttrace-eps-converted-to.pdf> <./pics/righttrace-eps-converted-t
 o.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 436--438
-
+[11]
+Package epstopdf Info: Source file: <./pics/fsi.eps>
+(epstopdf)                    date: 2020-12-13 12:51:06
+(epstopdf)                    size: 22850 bytes
+(epstopdf)             Output file: <./pics/fsi-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-12-13 12:51:16
+(epstopdf)                    size: 10497 bytes
+(epstopdf)             Command: <repstopdf --outfile=./pics/fsi-eps-converted-t
+o.pdf ./pics/fsi.eps>
+(epstopdf)             \includegraphics on input line 653.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/fsi-eps-converted-to.pdf, id=394, 403.5075pt x 194.7275pt>
+File: ./pics/fsi-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/fsi-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/fsi-eps-converted-to.pdf  used on input line 65
+3.
+(pdftex.def)             Requested size: 183.8458pt x 88.72296pt.
+ [12 <./pics/fsi-eps-converted-to.pdf>] <xymatrix 3x3 243> <xymatrix 3x2
+145> [13]
+Package epstopdf Info: Source file: <./pics/dualhom.eps>
+(epstopdf)                    date: 2020-12-16 12:13:24
+(epstopdf)                    size: 19532 bytes
+(epstopdf)             Output file: <./pics/dualhom-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-12-16 12:13:36
+(epstopdf)                    size: 9484 bytes
+(epstopdf)             Command: <repstopdf --outfile=./pics/dualhom-eps-convert
+ed-to.pdf ./pics/dualhom.eps>
+(epstopdf)             \includegraphics on input line 733.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/dualhom-eps-converted-to.pdf, id=425, 500.87125pt x 203.76125pt>
+File: ./pics/dualhom-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/dualhom-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/dualhom-eps-converted-to.pdf  used on input lin
+e 733.
+(pdftex.def)             Requested size: 275.7757pt x 112.19339pt.
+ [14 <./pics/dualhom-eps-converted-to.pdf>] <xymatrix 4x3 247>
+<xymatrix 3x2 149> <xymatrix 2x2 182> <xymatrix 3x2 190> [15] <xymatrix 3x3
+243> [16] <xymatrix 2x2 182> <xymatrix 2x2 182> <xymatrix 3x2 231> [17]
+<xymatrix 3x4 378> [18]
+Overfull \hbox (5.04893pt too wide) in paragraph at lines 969--969
+\T1/LinuxLibertineT-TLF/m/n/10 where the ac-tion of $[]\LS1/libertinust1math/m/
+n/10 .\LS1/libertinust1math/m/it/10 M; M\LS1/libertinust1math/m/n/10 /$ \T1/Lin
+uxLibertineT-TLF/m/n/10 is given by the $\U/stixcal/m/n/10 C$\T1/LinuxLibertine
+T-TLF/m/n/10 -module struc-ture. Hence, we get the mul-ti-pli-ca-tion on $[]\LS
+1/libertinust1math/m/n/10 .\LS1/libertinust1math/m/it/10 M; M\LS1/libertinust1m
+ath/m/n/10 /$\T1/LinuxLibertineT-TLF/m/n/10 , 
  []
 
-[13] [14] <xymatrix 3x3 243> <xymatrix 3x2 145> [15] <xymatrix 4x3 247>
-[16] <xymatrix 3x2 149> <xymatrix 2x2 182> <xymatrix 2x2 182> [17]
-Underfull \hbox (badness 10000) in paragraph at lines 621--622
-
- []
-
-<xymatrix 3x3 243> [18] <xymatrix 2x2 182> <xymatrix 2x2 182> <xymatrix 3x2
-231> [19] <xymatrix 3x4 371> [20] [21] <xymatrix 3x2 350> [22] [23] [24]
-[25] <xymatrix 5x3 292> <xymatrix 5x3 292> <xymatrix 5x3 292> <xymatrix 5x3
-292>
+<xymatrix 3x2 378> [19] <xymatrix 3x2 350> [20] [21] <xymatrix 5x3 292>
+<xymatrix 5x3 292> [22] <xymatrix 5x3 292> <xymatrix 5x3 292>
 Package epstopdf Info: Source file: <./pics/braiding.eps>
-(epstopdf)                    date: 2020-08-05 17:05:31
-(epstopdf)                    size: 6141 bytes
+(epstopdf)                    date: 2020-12-12 20:31:32
+(epstopdf)                    size: 6161 bytes
 (epstopdf)             Output file: <./pics/braiding-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-08-05 17:05:41
-(epstopdf)                    size: 3968 bytes
+(epstopdf)                    date: 2020-12-12 20:31:39
+(epstopdf)                    size: 3979 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/braiding-eps-conver
 ted-to.pdf ./pics/braiding.eps>
-(epstopdf)             \includegraphics on input line 960.
+(epstopdf)             \includegraphics on input line 1160.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/braiding-eps-converted-to.pdf, id=571, 498.86375pt x 159.59625pt>
+<./pics/braiding-eps-converted-to.pdf, id=591, 498.86375pt x 159.59625pt>
 File: ./pics/braiding-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/braiding-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/braiding-eps-converted-to.pdf  used on input li
-ne 960.
+ne 1160.
 (pdftex.def)             Requested size: 183.8458pt x 58.81589pt.
- [26] <xymatrix 2x2 182> [27 <./pics/braiding-eps-converted-to.pdf>]
-LaTeX Font Info:    Trying to load font information for U+bbm on input line 102
-0.
+ <xymatrix 2x2
+182> [23 <./pics/braiding-eps-converted-to.pdf>]
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 121
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 )
+
+LaTeX Font Warning: Font shape `U/bbm/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 1219.
+
 Package epstopdf Info: Source file: <./pics/t-matrix.eps>
 (epstopdf)                    date: 2020-08-05 17:46:57
 (epstopdf)                    size: 5279 bytes
@@ -1427,106 +1908,49 @@ Package epstopdf Info: Source file: <./pics/t-matrix.eps>
 (epstopdf)                    size: 3714 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/t-matrix-eps-conver
 ted-to.pdf ./pics/t-matrix.eps>
-(epstopdf)             \includegraphics on input line 1028.
+(epstopdf)             \includegraphics on input line 1222.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/t-matrix-eps-converted-to.pdf, id=607, 175.65625pt x 556.0775pt>
+<./pics/t-matrix-eps-converted-to.pdf, id=616, 175.65625pt x 556.0775pt>
 File: ./pics/t-matrix-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/t-matrix-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/t-matrix-eps-converted-to.pdf  used on input li
-ne 1028.
+ne 1222.
 (pdftex.def)             Requested size: 45.96495pt x 145.51009pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
-
- []
-
-[28 <./pics/t-matrix-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
-
- []
-
-<xymatrix 3x2 272> <xymatrix 3x2 272> <xymatrix 2x2 182> <xymatrix 3x2 272>
-[29] <xymatrix 3x2 272> [30]
-
-LaTeX Warning: Command \j invalid in math mode on input line 1131.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1131.
-
+[24 <./pics/t-matrix-eps-converted-to.pdf>] <xymatrix 3x2 272> <xymatrix 3x2
+272> <xymatrix 2x2 182> <xymatrix 3x2 272> <xymatrix 3x2 272> [25]
 Package epstopdf Info: Source file: <./pics/s-matrix.eps>
-(epstopdf)                    date: 2020-08-05 17:33:41
-(epstopdf)                    size: 6909 bytes
+(epstopdf)                    date: 2020-11-27 17:19:19
+(epstopdf)                    size: 6548 bytes
 (epstopdf)             Output file: <./pics/s-matrix-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-08-05 17:35:30
-(epstopdf)                    size: 4402 bytes
+(epstopdf)                    date: 2020-11-27 17:20:07
+(epstopdf)                    size: 4261 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/s-matrix-eps-conver
 ted-to.pdf ./pics/s-matrix.eps>
-(epstopdf)             \includegraphics on input line 1135.
+(epstopdf)             \includegraphics on input line 1325.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/s-matrix-eps-converted-to.pdf, id=662, 371.3875pt x 410.53375pt>
+<./pics/s-matrix-eps-converted-to.pdf, id=660, 371.3875pt x 320.19624pt>
 File: ./pics/s-matrix-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/s-matrix-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/s-matrix-eps-converted-to.pdf  used on input li
-ne 1135.
-(pdftex.def)             Requested size: 91.9229pt x 101.6121pt.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1145.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\new@ifnextchar' on input line 1145.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1145.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\omega' on input line 1145.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1145.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1145.
-
-[31 <./pics/s-matrix-eps-converted-to.pdf>] <xymatrix 3x3 194> [32] [33]
-[34
+ne 1325.
+(pdftex.def)             Requested size: 91.9229pt x 79.25247pt.
+ [26 <./pics/s-matrix-eps-converted-to.pdf>] [27] [28
 
 ]
 Chapter 3.
+[29]
+Underfull \hbox (badness 10000) detected at line 1353
+ []$[]  \LS1/libertinust1math/m/it/10 R\LS1/libertinust1math/m/n/10 .\LS1/liber
+tinust1math/m/it/10 ^^L\LS1/libertinust1math/m/n/10 / [] [] .§ ..\LS1/libertinu
+st1math/m/it/10 V[] ä V[]\LS1/libertinust1math/m/n/10 / \LS1/libertinust1math/m
+/it/10 ä V[]\LS1/libertinust1math/m/n/10 / § \LS1/libertinust1math/m/it/10 ä V[
+]\LS1/libertinust1math/m/n/10 / \LS2/libertinust1mathsym/m/n/10 E \LS1/libertin
+ust1math/m/n/10 .§ ..\LS1/libertinust1math/m/it/10 V[] ä V[]\LS1/libertinust1ma
+th/m/n/10 / \LS1/libertinust1math/m/it/10 ä V[]\LS1/libertinust1math/m/n/10 / §
+ \LS1/libertinust1math/m/it/10 ä V[]\LS1/libertinust1math/m/n/10 /  $ 
+ []
 
-Underfull \vbox (badness 1308) has occurred while \output is active []
-
- [35]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1995.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\new@ifnextchar' on input line 1995.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1995.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\omega' on input line 1995.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1995.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1995.
-
-[36]
+[30] <xymatrix 3x3 194> [31]
 Package epstopdf Info: Source file: <./pics/ptr.eps>
 (epstopdf)                    date: 2020-09-22 16:23:50
 (epstopdf)                    size: 18903 bytes
@@ -1535,15 +1959,15 @@ Package epstopdf Info: Source file: <./pics/ptr.eps>
 (epstopdf)                    size: 9217 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/ptr-eps-converted-t
 o.pdf ./pics/ptr.eps>
-(epstopdf)             \includegraphics on input line 2021.
+(epstopdf)             \includegraphics on input line 1425.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/ptr-eps-converted-to.pdf, id=735, 216.81pt x 202.7575pt>
+<./pics/ptr-eps-converted-to.pdf, id=737, 216.81pt x 202.7575pt>
 File: ./pics/ptr-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/ptr-eps-converted-to.pdf>
-Package pdftex.def Info: ./pics/ptr-eps-converted-to.pdf  used on input line 20
-21.
+Package pdftex.def Info: ./pics/ptr-eps-converted-to.pdf  used on input line 14
+25.
 (pdftex.def)             Requested size: 114.90536pt x 107.45787pt.
- [37] [38 <./pics/ptr-eps-converted-to.pdf>]
+ [32 <./pics/ptr-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./pics/b-braid.eps>
 (epstopdf)                    date: 2020-09-27 15:49:30
 (epstopdf)                    size: 17885 bytes
@@ -1552,15 +1976,31 @@ Package epstopdf Info: Source file: <./pics/b-braid.eps>
 (epstopdf)                    size: 9052 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/b-braid-eps-convert
 ed-to.pdf ./pics/b-braid.eps>
-(epstopdf)             \includegraphics on input line 2092.
+(epstopdf)             \includegraphics on input line 1496.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/b-braid-eps-converted-to.pdf, id=761, 1199.48125pt x 758.835pt>
+<./pics/b-braid-eps-converted-to.pdf, id=757, 1199.48125pt x 758.835pt>
 File: ./pics/b-braid-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/b-braid-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/b-braid-eps-converted-to.pdf  used on input lin
-e 2092.
-(pdftex.def)             Requested size: 183.8458pt x 116.29822pt.
- [39 <./pics/b-braid-eps-converted-to.pdf>]
+e 1496.
+(pdftex.def)             Requested size: 229.81075pt x 145.38435pt.
+ [33]
+Package epstopdf Info: Source file: <./pics/b-tensorc2.eps>
+(epstopdf)                    date: 2020-10-04 17:05:10
+(epstopdf)                    size: 10364 bytes
+(epstopdf)             Output file: <./pics/b-tensorc2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-04 17:06:25
+(epstopdf)                    size: 6348 bytes
+(epstopdf)             Command: <repstopdf --outfile=./pics/b-tensorc2-eps-conv
+erted-to.pdf ./pics/b-tensorc2.eps>
+(epstopdf)             \includegraphics on input line 1501.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/b-tensorc2-eps-converted-to.pdf, id=765, 595.22375pt x 570.13pt>
+File: ./pics/b-tensorc2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/b-tensorc2-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/b-tensorc2-eps-converted-to.pdf  used on input 
+line 1501.
+(pdftex.def)             Requested size: 183.8458pt x 176.09471pt.
 Package epstopdf Info: Source file: <./pics/conj.eps>
 (epstopdf)                    date: 2020-09-23 21:05:24
 (epstopdf)                    size: 3360 bytes
@@ -1569,13 +2009,13 @@ Package epstopdf Info: Source file: <./pics/conj.eps>
 (epstopdf)                    size: 3000 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/conj-eps-converted-
 to.pdf ./pics/conj.eps>
-(epstopdf)             \includegraphics on input line 2113.
+(epstopdf)             \includegraphics on input line 1521.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/conj-eps-converted-to.pdf, id=775, 295.1025pt x 453.695pt>
+<./pics/conj-eps-converted-to.pdf, id=767, 295.1025pt x 453.695pt>
 File: ./pics/conj-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/conj-eps-converted-to.pdf>
-Package pdftex.def Info: ./pics/conj-eps-converted-to.pdf  used on input line 2
-113.
+Package pdftex.def Info: ./pics/conj-eps-converted-to.pdf  used on input line 1
+521.
 (pdftex.def)             Requested size: 36.77055pt x 56.52481pt.
 Package epstopdf Info: Source file: <./pics/conjugated.eps>
 (epstopdf)                    date: 2020-09-23 21:18:53
@@ -1585,14 +2025,19 @@ Package epstopdf Info: Source file: <./pics/conjugated.eps>
 (epstopdf)                    size: 10170 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/conjugated-eps-conv
 erted-to.pdf ./pics/conjugated.eps>
-(epstopdf)             \includegraphics on input line 2117.
+(epstopdf)             \includegraphics on input line 1525.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/conjugated-eps-converted-to.pdf, id=776, 1162.3425pt x 539.01375pt>
+<./pics/conjugated-eps-converted-to.pdf, id=768, 1162.3425pt x 539.01375pt>
 File: ./pics/conjugated-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/conjugated-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/conjugated-eps-converted-to.pdf  used on input 
-line 2117.
+line 1525.
 (pdftex.def)             Requested size: 229.81075pt x 106.56712pt.
+
+Underfull \vbox (badness 1448) has occurred while \output is active []
+
+ [34 <./pics/b-braid-eps-converted-to.pdf> <./pics/b-tensorc2-eps-converted-to.
+pdf> <./pics/conj-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./pics/slidethru.eps>
 (epstopdf)                    date: 2020-09-23 21:23:42
 (epstopdf)                    size: 16477 bytes
@@ -1601,13 +2046,13 @@ Package epstopdf Info: Source file: <./pics/slidethru.eps>
 (epstopdf)                    size: 8412 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/slidethru-eps-conve
 rted-to.pdf ./pics/slidethru.eps>
-(epstopdf)             \includegraphics on input line 2122.
+(epstopdf)             \includegraphics on input line 1530.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/slidethru-eps-converted-to.pdf, id=777, 1296.845pt x 493.845pt>
+<./pics/slidethru-eps-converted-to.pdf, id=792, 1296.845pt x 493.845pt>
 File: ./pics/slidethru-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/slidethru-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/slidethru-eps-converted-to.pdf  used on input l
-ine 2122.
+ine 1530.
 (pdftex.def)             Requested size: 321.73364pt x 122.51901pt.
 Package epstopdf Info: Source file: <./pics/final.eps>
 (epstopdf)                    date: 2020-09-23 21:09:37
@@ -1617,281 +2062,292 @@ Package epstopdf Info: Source file: <./pics/final.eps>
 (epstopdf)                    size: 14793 bytes
 (epstopdf)             Command: <repstopdf --outfile=./pics/final-eps-converted
 -to.pdf ./pics/final.eps>
-(epstopdf)             \includegraphics on input line 2126.
+(epstopdf)             \includegraphics on input line 1534.
 Package epstopdf Info: Output file is already uptodate.
-<./pics/final-eps-converted-to.pdf, id=778, 2253.41875pt x 588.1975pt>
+<./pics/final-eps-converted-to.pdf, id=793, 2253.41875pt x 588.1975pt>
 File: ./pics/final-eps-converted-to.pdf Graphic file (type pdf)
 <use ./pics/final-eps-converted-to.pdf>
 Package pdftex.def Info: ./pics/final-eps-converted-to.pdf  used on input line 
-2126.
+1534.
 (pdftex.def)             Requested size: 413.65654pt x 107.97116pt.
- [40 <./pics/conj-eps-converted-to.pdf> <./pics/conjugated-eps-converted-to.pdf
-> <./pics/slidethru-eps-converted-to.pdf> <./pics/final-eps-converted-to.pdf>] 
-[41] [42] [43]
+ [35 <./pics/conjugated-eps-converted-to.pdf> <./pics/slidethru-eps-converted-t
+o.pdf> <./pics/final-eps-converted-to.pdf>]
+[36]
+Underfull \vbox (badness 1248) has occurred while \output is active []
 
-LaTeX Warning: Reference `codes' on page 1 undefined on input line 2269.
+ [37]
+[38]
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/n' will be
+(Font)              scaled to size 7.0pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/m/it' will be
+(Font)              scaled to size 7.0pt on input line 1706.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathsym/m/n' will be
+(Font)              scaled to size 7.0pt on input line 1706.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS2/libertinust1mathex/m/n' will be
+(Font)              scaled to size 7.0pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1mathbb/m/n' will be
+(Font)              scaled to size 7.0pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/n' will be
+(Font)              scaled to size 7.0pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 14.4pt on input line 1706.
+LaTeX Font Info:    Font shape `LS1/libertinust1math/b/it' will be
+(Font)              scaled to size 7.0pt on input line 1706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 2298.
+(hyperref)                removing `math shift' on input line 1706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 2298.
+(hyperref)                removing `math shift' on input line 1706.
 
-[44] [45] [46] [47]
-Underfull \hbox (badness 10000) in paragraph at lines 2437--2438
+[39] [40]
+Overfull \hbox (3.39954pt too wide) in paragraph at lines 1842--1843
+\T1/LinuxLibertineT-TLF/m/n/10 Groups of square-free or-der (or sim-ply square-
+free groups) have been clas-si-fied over a cen-tury ago by Hölder[[]].
+ []
+
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 1892--1894
 
  []
 
-[48] [49]
-Underfull \hbox (badness 10000) in paragraph at lines 2484--2486
+
+Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
 
  []
 
+[43] [44]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 1962.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 6.5pt on input line 1962.
+ [45] [46] [47] [48]
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
+n input line 2113.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2490--2491
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 2113.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 2113.
 
- []
-
-[50] [51] [52] [53]
-Overfull \hbox (87.29866pt too wide) detected at line 2614
-[]
- []
-
-
-Overfull \hbox (2.26852pt too wide) detected at line 2618
-[]
- []
-
-[54]
-Overfull \hbox (27.81326pt too wide) detected at line 2623
-[]
- []
-
-[55] [56]
-Underfull \hbox (badness 10000) in paragraph at lines 2701--2702
+Underfull \hbox (badness 10000) in paragraph at lines 2112--2114
 
  []
 
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2704.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 2116.
+[49]
+LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF 
+on input line 2148.
 
-[57] [58]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/TS1LinuxBiolinumT-TLF.fd
+File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/L
+inuxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 2148.
 
- [59]
-[60] [61]
-Overfull \hbox (27.99702pt too wide) in paragraph at lines 2985--2986
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+[50] [51]
+Underfull \vbox (badness 2073) has occurred while \output is active []
 
-[62]
+ [52]
+[53] [54]
 Chapter 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3033.
+(hyperref)                removing `math shift' on input line 2446.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3033.
-
-[63
-
-] [64] <xymatrix 3x2 190> [65] <xymatrix 2x2 182> [66]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3142.
+(hyperref)                removing `math shift' on input line 2446.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3142.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[67] [68]
+ [55
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3225.
+]
+[56] <xymatrix 3x2 190> <xymatrix 2x2 182> [57] [58] <xymatrix 3x4 378>
+<xymatrix 1x2 44> [59] <xymatrix 1x2 44> [60] <xymatrix 5x2 437> [61]
+<xymatrix 3x2 145> [62] <xymatrix 2x2 182> <xymatrix 7x2 1201> [63]
+Underfull \hbox (badness 10000) in paragraph at lines 2803--2805
 
+ []
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3225.
+[64] [65] [66] [67] [68] [69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[69] <xymatrix 5x2 437> [70] <xymatrix 3x2 145> [71] [72] <xymatrix 7x2 1201>
-[73]
-Overfull \hbox (27.99702pt too wide) in paragraph at lines 3374--3375
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ [70]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 3259.
+
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72]
+[73] [74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 3583--3584
+
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 3635.
+[76] [77]
+Underfull \hbox (badness 10000) in paragraph at lines 3662--3664
+
+ []
+
+[78] [79]
+Overfull \hbox (4.14409pt too wide) in paragraph at lines 3754--3755
+[]$\LS1/libertinust1math/m/n/10 .\LS1/libertinust1math/m/it/10 D[]; D[]; ![]; \
+LS1/libertinust1math/m/n/10 1/\LS1/libertinust1math/m/it/10 ; \LS1/libertinust1
+math/m/n/10 .\LS1/libertinust1math/m/it/10 Q[]; Q[]; ![]; \LS1/libertinust1math
+/m/n/10 1/\LS1/libertinust1math/m/it/10 :$ \T1/LinuxLibertineT-TLF/m/n/10 The f
+u-sion ring con-sists of 10 ob-jects hav-ing di-men-sions $\LS1/libertinust1mat
+h/m/n/10 [1\LS1/libertinust1math/m/it/10 ; \LS1/libertinust1math/m/n/10 1\LS1/l
+ibertinust1math/m/it/10 ; \LS1/libertinust1math/m/n/10 1\LS1/libertinust1math/m
+/it/10 ; \LS1/libertinust1math/m/n/10 1\LS1/libertinust1math/m/it/10 ; \LS1/lib
+ertinust1math/m/n/10 2\LS1/libertinust1math/m/it/10 ; \LS1/libertinust1math/m/n
+/10 2\LS1/libertinust1math/m/it/10 ; \LS1/libertinust1math/m/n/10 1\LS1/liberti
+nust1math/m/it/10 ; \LS1/libertinust1math/m/n/10 1\LS1/libertinust1math/m/it/10
+ ; \LS1/libertinust1math/m/n/10 1\LS1/libertinust1math/m/it/10 ; \LS1/libertinu
+st1math/m/n/10 1]$
  []
 
 
-Overfull \hbox (57.21664pt too wide) in paragraph at lines 3389--3390
-\OT1/cmr/m/n/10.95 phism or-bits of all sub-groups [][][][][][] un-der the ac-t
-ion of the au-to-mor-phism group [][][][][][],
- []
+Underfull \vbox (badness 3189) has occurred while \output is active []
 
-[74]
-Overfull \hbox (107.37679pt too wide) in paragraph at lines 3426--3427
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-] 
- []
+ [80]
+Underfull \vbox (badness 3199) has occurred while \output is active []
 
-[75] [76]
-Overfull \hbox (147.06667pt too wide) in paragraph at lines 3506--3507
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+ [81]
+Underfull \vbox (badness 4927) has occurred while \output is active []
+
+ [82]
+[83] [84] [85
 
 
-Overfull \hbox (266.1363pt too wide) in paragraph at lines 3540--3541
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (22.32704pt too wide) in paragraph at lines 3541--3543
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][]
- []
-
-[77]
-Overfull \hbox (436.2358pt too wide) in paragraph at lines 3566--3567
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (124.38673pt too wide) in paragraph at lines 3574--3575
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (79.02687pt too wide) in paragraph at lines 3585--3586
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][] 
- []
-
-
-Overfull \hbox (158.40663pt too wide) in paragraph at lines 3591--3592
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][] 
- []
-
-
-Overfull \hbox (600.6653pt too wide) in paragraph at lines 3596--3597
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][] 
- []
-
-[78]
-Overfull \hbox (305.82619pt too wide) in paragraph at lines 3614--3615
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][] 
- []
-
-
-Overfull \hbox (16.65706pt too wide) in paragraph at lines 3640--3641
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (124.38673pt too wide) in paragraph at lines 3651--3652
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][] 
- []
-
-[79]
-Overfull \hbox (362.52602pt too wide) in paragraph at lines 3668--3669
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (67.6869pt too wide) in paragraph at lines 3671--3672
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (5.3171pt too wide) in paragraph at lines 3672--3673
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[80]
+] [86]
 Appendix A.
-<xymatrix 7x2 782> [81
+<xymatrix 7x2 782> [87
 
-] [82pdfTeX warning (ext4): destination with the same identifier (name{equation
-.A.0.6}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.3751 \end{equation}
-                     ] (./thesis.bbl [83pdfTeX warning (ext4): destination with
- the same identifier (name{equation.A.0.8}) has been already used, duplicate ig
-nored
+] [88pdfTeX warning (ext4): destination with the same identifier (name{equation
+.1.A.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.18 \begin{thebibliography}{MMP{\etalchar{+}}20}
-                                                 ] [84
+l.4118 \chapter
+               {Explicit data for some non-pointed fusion rings}\label{ringd...
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.A.
+3}) has been already used, duplicate ignored
 
-] [85]) [86]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3755.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3755.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.4118 \chapter
+               {Explicit data for some non-pointed fusion rings}\label{ringd...
+pdfTeX warning (ext4): destination with the same identifier (name{equation.1.A.
+3}) has been already used, duplicate ignored
 
-(./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3755.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3755.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.4118 \chapter
+               {Explicit data for some non-pointed fusion rings}\label{ringd...
+]
+Appendix B.
+[89
+
+] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107] (./thesis.bbl [108]
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineMonoT-
+TLF on input line 115.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineMonoT-TLF.fd
+File: T1LinuxLibertineMonoT-TLF.fd 2019/05/20 (autoinst) Font definitions for T
+1/LinuxLibertineMonoT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/n' in size <10> no
+t available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/regular/n' tried ins
+tead on input line 115.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 115.
+ [109
+
+] [110]) [111]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5500.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 5500.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 5500.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 5500.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5C3BED4F83A10C58F0A7306A035BACEB;2577.
+(rerunfilecheck)             Checksum: 572027B6B0078E989CDA1B23FD1DCBA8;1767.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.75pt have occurred.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3755.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 5500.
  ) 
 Here is how much of TeX's memory you used:
- 28416 strings out of 481239
- 494704 string characters out of 5920377
- 982409 words of memory out of 5000000
- 41929 multiletter control sequences out of 15000+600000
- 553243 words of font info for 115 fonts, out of 8000000 for 9000
+ 33145 strings out of 481239
+ 573354 string characters out of 5920377
+ 1083057 words of memory out of 5000000
+ 44855 multiletter control sequences out of 15000+600000
+ 736443 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,22n,81p,3234b,1841s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/akulkarni/.texlive2019/texmf-var/fonts/pk/ljfour/public/bbm/bbm10.657
-pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/s
-ymbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msbm7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/stmaryrd/stma
-ry10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmat10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt10.pfb>
-Output written on thesis.pdf (86 pages, 741735 bytes).
+ 64i,22n,81p,3234b,2077s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_dhi6qf.enc}{/us
+r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/shar
+e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc} </home/akulkarn
+i/.texlive2019/texmf-var/fonts/pk/ljfour/public/bbm/bbm10.600pk>{/usr/share/tex
+live/texmf-dist/fonts/enc/dvips/libertinust1math/libusBMR.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/libertinust1math/libusSYM.enc}{/usr/share/texlive
+/texmf-dist/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/libertinust1math/libusEX.enc}{/usr/share/texlive/texmf-di
+st/fonts/enc/dvips/libertinust1math/libusBB.enc}{/usr/share/texlive/texmf-dist/
+fonts/enc/dvips/libertinust1math/libusMR.enc}{/usr/share/texlive/texmf-dist/fon
+ts/enc/dvips/libertinust1math/libusMI.enc}{/usr/share/texlive/texmf-dist/fonts/
+enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dv
+ips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/li
+bertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/liber
+tinust1math/LibertinusT1Math.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/libertine/LinBiolinumTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+libertine/LinLibertineMT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/l
+ibertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/l
+ibertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/st
+ix/stix-mathcal.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyc
+mat10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xycmbt10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xydash10.pfb>
+Output written on thesis.pdf (117 pages, 1173423 bytes).
 PDF statistics:
- 2294 PDF objects out of 2487 (max. 8388607)
- 2072 compressed objects within 21 object streams
- 1165 named destinations out of 1200 (max. 500000)
- 367 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4479 PDF objects out of 5155 (max. 8388607)
+ 4213 compressed objects within 43 object streams
+ 2872 named destinations out of 2984 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 

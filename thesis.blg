@@ -3,7 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 The style file: alpha.bst
 Database file #1: andere.bib
-Repeated entry---line 4644 of file andere.bib
+Repeated entry---line 4943 of file andere.bib
  : @book {EGNO
  :            ,
 I'm skipping whatever remains of this entry
@@ -28,10 +28,6 @@ Repeated entry---line 2733 of file andere2.bib
  : @article{Maj:QDQHA
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3132 of file andere2.bib
- : @misc{morales2020algebraic
- :                           ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 3140 of file andere2.bib
  : @article {MR2559854
  :                    ,
@@ -51,10 +47,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 3498 of file andere2.bib
  : @article{Ost:MCDDFG
  :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3512 of file andere2.bib
- : @article{Ost:MCWHAMI
- :                     ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 3907 of file andere2.bib
  : @book {MR896269
@@ -92,10 +84,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 3398 of file andere3.bib
  : @article{Ost:MCDDFG
  :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3412 of file andere3.bib
- : @article{Ost:MCWHAMI
- :                     ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 4397 of file andere3.bib
  : @incollection{Zhu:HARRHA
@@ -154,53 +142,58 @@ Repeated entry---line 1372 of file BK.bib
  : @book {EGNO
  :            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1463 of file BK.bib
- : @article {Sh
- :             ,
+Repeated entry---line 1447 of file BK.bib
+ : @article {O
+ :            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1529 of file BK.bib
+ : @book {T
+ :         ,
 I'm skipping whatever remains of this entry
 Database file #5: arxiv.bib
+Warning--to sort, need author or key in groupprops
 Warning--there's a number but no volume in BNRW
-Warning--empty booktitle in Coste2000FiniteGM
+Warning--there's a number but no volume in MR2098028
 Warning--there's a number but no volume in Ost:MCDDFG
-You've used 29 entries,
+You've used 41 entries,
             2543 wiz_defined-function locations,
-            770 strings with 9238 characters,
-and the built_in function-call counts, 11469 in all, are:
-= -- 1144
-> -- 545
-< -- 15
-+ -- 190
-- -- 186
-* -- 881
-:= -- 1916
-add.period$ -- 88
-call.type$ -- 29
-change.case$ -- 181
-chr.to.int$ -- 27
-cite$ -- 32
-duplicate$ -- 431
-empty$ -- 822
-format.name$ -- 225
-if$ -- 2279
-int.to.chr$ -- 3
+            855 strings with 10971 characters,
+and the built_in function-call counts, 16614 in all, are:
+= -- 1694
+> -- 706
+< -- 27
++ -- 244
+- -- 237
+* -- 1252
+:= -- 2684
+add.period$ -- 126
+call.type$ -- 41
+change.case$ -- 247
+chr.to.int$ -- 38
+cite$ -- 46
+duplicate$ -- 660
+empty$ -- 1226
+format.name$ -- 293
+if$ -- 3376
+int.to.chr$ -- 4
 int.to.str$ -- 0
-missing$ -- 32
-newline$ -- 150
-num.names$ -- 87
-pop$ -- 157
+missing$ -- 45
+newline$ -- 210
+num.names$ -- 120
+pop$ -- 218
 preamble$ -- 2
-purify$ -- 213
+purify$ -- 293
 quote$ -- 0
-skip$ -- 338
+skip$ -- 528
 stack$ -- 0
-substring$ -- 690
-swap$ -- 42
-text.length$ -- 15
-text.prefix$ -- 12
+substring$ -- 1096
+swap$ -- 105
+text.length$ -- 27
+text.prefix$ -- 19
 top$ -- 0
-type$ -- 216
-warning$ -- 3
-while$ -- 111
-width$ -- 32
-write$ -- 375
-(There were 36 error messages)
+type$ -- 304
+warning$ -- 4
+while$ -- 160
+width$ -- 46
+write$ -- 536
+(There were 34 error messages)
