@@ -1,2 +1,2 @@
-[PhD thesis (in progress)](https://github.com/junkicide/thesis/blob/master/thesis.pdf)
+[PhD thesis](https://github.com/junkicide/thesis/blob/master/thesis.pdf)
 
